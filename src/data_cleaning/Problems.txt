@@ -1,0 +1,40 @@
+inconsistent table format
+
+March 2017:
+3 columns for some rows, 1 for most
+
+September 2017:
+3 columns for most rows, 1 for some
+
+December 2017:
+pdf_raw file name is missing the character 'a' 
+i.e.,  pdf name is'nationlity' instead of 'nationality'
+
+May 2019:
+3 columns for most rows, 1 for some
+
+October 2019:
+pdf_raw filename is missing characters '-20%'
+'...202019%20NIV...' instead of '...202019%20-%20NIV...'
+
+December 2019:
+3 columns for most rowns, 1 for some
+
+Sept 2020:
+pdf_raw filename is missing characters 'EMBER'
+'SEPT...' instead of 'SEPTEMBER...'
+
+
+to-do:
+1) pdf file names:
+	i) For now, manually rename misspelled raw_pdf file names
+	ii) Can use naive ML model to auto match and rename these files
+2) Inconsistent columns:
+	i) try specifying col names while importing using pandas.read_csv()
+	ii) Else use the build-in CSV module to read line by line
+	iii) Use the file csv_clean2.py for this purpose
+	iv) incorporate error handling
+	v) Use OOP for this
+
+
+fixed: git email

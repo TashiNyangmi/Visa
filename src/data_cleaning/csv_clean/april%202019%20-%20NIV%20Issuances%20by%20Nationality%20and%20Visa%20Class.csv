@@ -1,0 +1,3446 @@
+country,visa_type,number
+Afghanistan,A1,4
+Afghanistan,A2,11
+Afghanistan,B1/B2,144
+Afghanistan,F1,6
+Afghanistan,G1,2
+Afghanistan,G2,1
+Afghanistan,G4,15
+Afghanistan,H1B,1
+Afghanistan,J1,9
+Afghanistan,J2,1
+Afghanistan,K1,7
+Albania,A1,5
+Albania,A2,19
+Albania,B1,5
+Albania,B1/B2,811
+Albania,C1/D,9
+Albania,E2,5
+Albania,F1,15
+Albania,G2,7
+Albania,G4,6
+Albania,H1B,2
+Albania,H2B,1
+Albania,H4,1
+Albania,I,1
+Albania,J1,249
+Albania,K1,14
+Albania,L1,1
+Albania,L2,1
+Albania,R1,1
+Algeria,A2,19
+Algeria,C1,1
+Algeria,D,5
+Algeria,F1,7
+Algeria,G1,1
+Algeria,G2,10
+Algeria,G4,1
+Algeria,H1B,1
+Algeria,H4,2
+Algeria,J1,7
+Algeria,J2,2
+Algeria,K1,6
+Algeria,L1,1
+Algeria,P1,2
+Andorra,G1,1
+Andorra,I,1
+Angola,A1,2
+Angola,A2,13
+Angola,B1/B2,392
+Angola,B2,46
+Angola,C1/D,4
+Angola,F1,8
+Angola,F2,2
+Angola,G1,7
+Angola,G2,12
+Angola,G4,2
+Angola,J1,12
+Angola,K1,2
+Angola,L1,2
+Angola,L2,6
+Angola,M1,1
+Antigua and Barbuda,A2,2
+Antigua and Barbuda,B1/B2,277
+Antigua and Barbuda,B2,1
+Antigua and Barbuda,C1/D,5
+Antigua and Barbuda,F1,1
+Antigua and Barbuda,G4,1
+Antigua and Barbuda,H2B,1
+Antigua and Barbuda,J1,2
+Antigua and Barbuda,K1,1
+Antigua and Barbuda,R1,2
+Antigua and Barbuda,R2,2
+Argentina,A2,41
+Argentina,B1,22
+Argentina,B2,1
+Argentina,C1,4
+Argentina,C1/D,85
+Argentina,C3,5
+Argentina,E1,7
+Argentina,E2,34
+Argentina,F1,73
+Argentina,F2,5
+Argentina,G1,2
+Argentina,G2,12
+Argentina,G4,41
+Argentina,H1B,12
+Argentina,H2A,3
+Argentina,H2B,4
+Argentina,H4,8
+Argentina,I,9
+Argentina,J1,193
+Argentina,J2,19
+Argentina,K1,15
+Argentina,K2,1
+Argentina,L1,65
+Argentina,L2,76
+Argentina,M1,6
+Argentina,O1,23
+Argentina,O2,14
+Argentina,O3,11
+Argentina,P1,20
+Argentina,P3,3
+Argentina,P4,14
+Argentina,R1,7
+Armenia,A1,1
+Armenia,A2,9
+Armenia,B1,5
+Armenia,B1/B2,796
+Armenia,B2,20
+Armenia,C3,2
+Armenia,F1,6
+Armenia,G1,1
+Armenia,G2,5
+Armenia,G4,2
+Armenia,H1B,2
+Armenia,H4,2
+Armenia,I,5
+Armenia,J1,42
+Armenia,K1,19
+Armenia,L1,1
+Armenia,L2,2
+Armenia,O1,2
+Armenia,O2,3
+Armenia,P1,4
+Armenia,P3,1
+Australia,A1,11
+Australia,A2,370
+Australia,B1,17
+Australia,B1/B2,720
+Australia,B2,1
+Australia,C1,1
+Australia,C1/D,187
+Australia,C3,24
+Australia,E1,1
+Australia,E2,54
+Australia,E3,452
+Australia,E3D,312
+Australia,E3R,284
+Australia,F1,73
+Australia,G2,10
+Australia,G3,1
+Australia,G4,16
+Australia,H1B,34
+Australia,H2A,5
+Australia,H2B,7
+Australia,H4,29
+Australia,I,16
+Australia,J1,572
+Australia,J2,12
+Australia,K1,26
+Australia,L1,96
+Australia,L2,88
+Australia,M1,8
+Australia,O1,36
+Australia,O2,19
+Australia,O3,11
+Australia,P1,72
+Australia,P3,2
+Australia,R1,5
+Australia,TD,1
+Austria,A1,3
+Austria,A2,34
+Austria,B1,2
+Austria,B1/B2,185
+Austria,C1/D,40
+Austria,E1,1
+Austria,E2,22
+Austria,F1,34
+Austria,G2,2
+Austria,G3,1
+Austria,G4,5
+Austria,H1B,5
+Austria,H2B,1
+Austria,I,3
+Austria,J1,139
+Austria,J2,3
+Austria,K1,5
+Austria,L1,26
+Austria,L2,5
+Austria,M1,3
+Austria,O1,6
+Austria,O2,2
+Austria,P1,50
+Austria,P3,2
+Austria,R1,1
+Austria,TD,1
+Azerbaijan,A1,5
+Azerbaijan,A2,24
+Azerbaijan,B1,3
+Azerbaijan,B1/B2,577
+Azerbaijan,C1/D,37
+Azerbaijan,E2,2
+Azerbaijan,F1,16
+Azerbaijan,F2,1
+Azerbaijan,G1,2
+Azerbaijan,G2,18
+Azerbaijan,G4,6
+Azerbaijan,J1,46
+Azerbaijan,J2,4
+Azerbaijan,K1,5
+"Bahamas, The",A1,1
+"Bahamas, The",A2,2
+"Bahamas, The",B1/B2,997
+"Bahamas, The",C1/D,7
+"Bahamas, The",C3,2
+"Bahamas, The",F1,18
+"Bahamas, The",F2,2
+"Bahamas, The",G4,1
+"Bahamas, The",H1B,11
+"Bahamas, The",H4,4
+"Bahamas, The",J1,4
+"Bahamas, The",K1,3
+"Bahamas, The",L1,2
+"Bahamas, The",L2,1
+"Bahamas, The",M1,5
+"Bahamas, The",P3,33
+Bahrain,A2,33
+Bahrain,B1/B2,328
+Bahrain,B2,5
+Bahrain,C1/D,4
+Bahrain,F1,6
+Bahrain,G2,3
+Bahrain,G4,1
+Bahrain,I,1
+Bahrain,J1,4
+Bahrain,J2,2
+Bahrain,M1,1
+Bahrain,O1,1
+Bangladesh,A1,8
+Bangladesh,A2,142
+Bangladesh,A3,2
+Bangladesh,B1,7
+Bangladesh,B2,4
+Bangladesh,C1/D,73
+Bangladesh,C3,1
+Bangladesh,E2,2
+Bangladesh,F1,79
+Bangladesh,F2,58
+Bangladesh,G1,3
+Bangladesh,G2,37
+Bangladesh,G4,17
+Bangladesh,H1B,15
+Bangladesh,H4,13
+Bangladesh,I,8
+Bangladesh,J1,18
+Bangladesh,J2,8
+Bangladesh,K1,3
+Bangladesh,L1,3
+Bangladesh,L2,2
+Bangladesh,O1,1
+Bangladesh,TD,1
+Barbados,A1,1
+Barbados,A2,3
+Barbados,C1,2
+Barbados,C1/D,4
+Barbados,C3,5
+Barbados,F1,1
+Barbados,I,1
+Barbados,J1,4
+Barbados,L1,2
+Barbados,L2,1
+Barbados,M1,1
+Barbados,P3,1
+Barbados,R1,2
+Belarus,A1,4
+Belarus,A2,8
+Belarus,B1,8
+Belarus,B2,6
+Belarus,C1/D,58
+Belarus,E3D,1
+Belarus,F1,8
+Belarus,F2,2
+Belarus,G2,3
+Belarus,G4,3
+Belarus,H1B,7
+Belarus,H4,7
+Belarus,I,1
+Belarus,J1,116
+Belarus,K1,10
+Belarus,K2,1
+Belarus,L1,22
+Belarus,L2,26
+Belarus,O1,5
+Belarus,P1,1
+Belgium,A1,5
+Belgium,A2,24
+Belgium,B1,10
+Belgium,B1/B2,292
+Belgium,C1/D,137
+Belgium,E1,3
+Belgium,E2,12
+Belgium,E3D,1
+Belgium,F1,18
+Belgium,F2,3
+Belgium,G1,1
+Belgium,G2,2
+Belgium,G3,2
+Belgium,G4,16
+Belgium,H1B,7
+Belgium,H4,4
+Belgium,I,6
+Belgium,J1,33
+Belgium,J2,7
+Belgium,K1,3
+Belgium,L1,41
+Belgium,L2,18
+Belgium,M1,2
+Belgium,NATO2,33
+Belgium,NATO4,1
+Belgium,O1,9
+Belgium,O2,10
+Belgium,P1,6
+Belgium,P3,1
+Belize,A1,1
+Belize,A2,18
+Belize,B1/B2,277
+Belize,C1,8
+Belize,C1/D,1
+Belize,C3,14
+Belize,F1,3
+Belize,G4,1
+Belize,H2B,6
+Belize,J1,4
+Belize,K1,1
+Belize,M1,1
+Belize,O1,1
+Benin,A2,10
+Benin,B1/B2,131
+Benin,C1,4
+Benin,D,2
+Benin,F1,3
+Benin,G2,6
+Benin,G4,11
+Benin,J1,1
+Benin,K1,1
+Benin,P3,1
+Benin,R1,1
+Bermuda,B1/B2,8
+Bermuda,H4,1
+Bermuda,K1,1
+Bhutan,A1,12
+Bhutan,A2,18
+Bhutan,B1/B2,46
+Bhutan,G1,2
+Bhutan,G2,4
+Bhutan,G4,1
+Bhutan,J1,2
+Bolivia,A2,2
+Bolivia,B1,6
+Bolivia,C1,9
+Bolivia,C1/D,26
+Bolivia,F1,28
+Bolivia,F2,2
+Bolivia,G1,3
+Bolivia,G2,3
+Bolivia,G4,7
+Bolivia,H1B,2
+Bolivia,H3,2
+Bolivia,H4,4
+Bolivia,I,1
+Bolivia,J1,38
+Bolivia,K1,2
+Bolivia,L2,1
+Bolivia,R1,2
+Bolivia,U3,1
+Bosnia-Herzegovina,A1,2
+Bosnia-Herzegovina,A2,15
+Bosnia-Herzegovina,B1,1
+Bosnia-Herzegovina,B1/B2,310
+Bosnia-Herzegovina,C1/D,94
+Bosnia-Herzegovina,F1,2
+Bosnia-Herzegovina,G4,1
+Bosnia-Herzegovina,J1,136
+Bosnia-Herzegovina,J2,3
+Bosnia-Herzegovina,K1,11
+Bosnia-Herzegovina,L1,2
+Botswana,A1,1
+Botswana,A2,3
+Botswana,B1,5
+Botswana,B1/B2,87
+Botswana,B2,1
+Botswana,C1,1
+Botswana,C1/D,1
+Botswana,F1,2
+Botswana,G2,5
+Botswana,G4,1
+Botswana,I,1
+Botswana,J1,2
+Brazil,A1,13
+Brazil,A2,307
+Brazil,A3,1
+Brazil,B1,244
+Brazil,C1,13
+Brazil,C1/D,383
+Brazil,C3,11
+Brazil,E1,1
+Brazil,E2,15
+Brazil,E3D,1
+Brazil,F1,762
+Brazil,F2,313
+Brazil,G1,9
+Brazil,G2,13
+Brazil,G4,101
+Brazil,G5,2
+Brazil,H1B,71
+Brazil,H2A,8
+Brazil,H2B,14
+Brazil,H3,1
+Brazil,H4,41
+Brazil,I,29
+Brazil,J1,827
+Brazil,J2,84
+Brazil,K1,88
+Brazil,K2,12
+Brazil,L1,416
+Brazil,L2,520
+Brazil,M1,8
+Brazil,M2,2
+Brazil,O1,113
+Brazil,O2,10
+Brazil,O3,53
+Brazil,P1,58
+Brazil,P3,5
+Brazil,P4,11
+Brazil,Q1,54
+Brazil,R1,23
+Brazil,R2,20
+Brazil,TD,3
+British National Overseas (Hong Kong) Passport,B1/B2,205
+British National Overseas (Hong Kong) Passport,C1/D,4
+British National Overseas (Hong Kong) Passport,E2C,1
+British National Overseas (Hong Kong) Passport,F1,2
+British National Overseas (Hong Kong) Passport,J1,3
+British National Overseas (Hong Kong) Passport,K1,1
+British National Overseas (Hong Kong) Passport,L1,1
+British National Overseas (Hong Kong) Passport,O2,1
+British Virgin Islands,B1/B2,3
+British Virgin Islands,F1,1
+Brunei,A1,1
+Brunei,A2,3
+Brunei,B1/B2,2
+Brunei,C1/D,2
+Brunei,F1,1
+Brunei,G2,3
+Brunei,J1,2
+Brunei,L1,1
+Bulgaria,A2,12
+Bulgaria,B1,1
+Bulgaria,B2,79
+Bulgaria,C1/D,128
+Bulgaria,E2,5
+Bulgaria,F1,8
+Bulgaria,G2,6
+Bulgaria,G4,6
+Bulgaria,H1B,3
+Bulgaria,H2A,2
+Bulgaria,H2B,118
+Bulgaria,H4,1
+Bulgaria,K1,6
+Bulgaria,L1,8
+Bulgaria,L2,7
+Bulgaria,NATO2,10
+Bulgaria,O1,3
+Bulgaria,P1,3
+Bulgaria,P3,11
+Bulgaria,P4,1
+Burkina Faso,A1,1
+Burkina Faso,A2,17
+Burkina Faso,B1/B2,230
+Burkina Faso,F1,5
+Burkina Faso,F2,2
+Burkina Faso,G2,3
+Burkina Faso,G4,6
+Burkina Faso,J1,3
+Burkina Faso,O1,1
+Burkina Faso,P1,1
+Burma,A1,4
+Burma,A2,13
+Burma,B1,190
+Burma,B1/B2,22
+Burma,B2,747
+Burma,C1,176
+Burma,C3,2
+Burma,CW1,1
+Burma,D,478
+Burma,F1,14
+Burma,G1,4
+Burma,G4,5
+Burma,H1B,3
+Burma,H3,1
+Burma,J1,20
+Burma,K1,8
+Burma,L1,3
+Burundi,A2,2
+Burundi,B1/B2,96
+Burundi,F1,7
+Burundi,G2,3
+Burundi,G4,4
+Burundi,I,2
+Burundi,K1,2
+Burundi,P1,1
+Cabo Verde,A2,1
+Cabo Verde,B1/B2,159
+Cabo Verde,C1/D,1
+Cabo Verde,F1,1
+Cabo Verde,G1,2
+Cabo Verde,G2,6
+Cabo Verde,G4,1
+Cabo Verde,J1,1
+Cabo Verde,K1,6
+Cabo Verde,L1,2
+Cabo Verde,M1,1
+Cabo Verde,O2,1
+Cabo Verde,P3,3
+Cambodia,A2,7
+Cambodia,B1,7
+Cambodia,B1/B2,477
+Cambodia,C1,17
+Cambodia,C3,2
+Cambodia,D,11
+Cambodia,F1,12
+Cambodia,G1,3
+Cambodia,G2,17
+Cambodia,G4,5
+Cambodia,H1B,1
+Cambodia,J1,12
+Cambodia,K1,24
+Cambodia,K2,2
+Cambodia,M1,1
+Cambodia,M2,1
+Cambodia,P1,26
+Cameroon,A1,3
+Cameroon,A2,38
+Cameroon,B1,3
+Cameroon,B1/B2,584
+Cameroon,B2,1
+Cameroon,C1/D,1
+Cameroon,D,1
+Cameroon,F1,9
+Cameroon,G2,13
+Cameroon,G4,23
+Cameroon,H1B,1
+Cameroon,J1,7
+Cameroon,K1,11
+Cameroon,K2,2
+Cameroon,L1,1
+Canada,A1,22
+Canada,A2,1
+Canada,B1,3
+Canada,B1/B2,23
+Canada,B2,1
+Canada,C1/D,1
+Canada,E1,68
+Canada,E2,363
+Canada,E3D,2
+Canada,F1,12
+Canada,G1,1
+Canada,G2,3
+Canada,G4,43
+Canada,H1B,10
+Canada,H2A,5
+Canada,H4,10
+Canada,I,1
+Canada,J1,15
+Canada,J2,5
+Canada,K1,90
+Canada,L1,16
+Canada,L2,12
+Canada,M1,1
+Canada,NATO2,34
+Canada,NATO4,1
+Canada,NATO6,1
+Canada,O1,1
+Canada,O2,3
+Canada,P1,3
+Canada,P3,1
+Canada,TD,1
+Canada,TN,5
+Cayman Islands,B1/B2,109
+Cayman Islands,F1,1
+Cayman Islands,H1B,1
+Central African Republic,A1,2
+Central African Republic,A2,5
+Central African Republic,B1/B2,16
+Central African Republic,G2,12
+Central African Republic,G4,1
+Central African Republic,K1,1
+Chad,A1,1
+Chad,A2,4
+Chad,B1/B2,64
+Chad,B2,1
+Chad,F1,6
+Chad,G2,6
+Chad,G4,6
+Chad,J1,3
+Chile,A2,80
+Chile,B1,21
+Chile,B1/B2,207
+Chile,C1/D,45
+Chile,C3,51
+Chile,E1,2
+Chile,E2,3
+Chile,E3D,1
+Chile,F1,81
+Chile,F2,35
+Chile,G1,4
+Chile,G2,15
+Chile,G4,5
+Chile,H1B,21
+Chile,H1B1,62
+Chile,H2A,3
+Chile,H2B,1
+Chile,H4,49
+Chile,I,1
+Chile,J1,53
+Chile,J2,11
+Chile,K1,7
+Chile,L1,15
+Chile,L2,28
+Chile,M1,1
+Chile,O1,5
+Chile,O2,3
+Chile,P1,2
+Chile,P3,1
+Chile,P4,2
+Chile,R1,2
+Chile,R2,1
+Chile,TD,2
+China-mainland,A1,36
+China-mainland,A2,159
+China-mainland,B1,24
+China-mainland,B2,134
+China-mainland,C1,71
+China-mainland,C3,39
+China-mainland,CW1,63
+China-mainland,CW2,9
+China-mainland,E2,9
+China-mainland,E2C,1
+China-mainland,E3D,1
+China-mainland,F2,152
+China-mainland,G1,11
+China-mainland,G2,63
+China-mainland,G4,73
+China-mainland,H3,15
+China-mainland,H4,357
+China-mainland,I,27
+China-mainland,J2,533
+China-mainland,K1,108
+China-mainland,K2,8
+China-mainland,L1,396
+China-mainland,L2,365
+China-mainland,M1,203
+China-mainland,M2,7
+China-mainland,O1,95
+China-mainland,O2,27
+China-mainland,O3,19
+China-mainland,P1,16
+China-mainland,P3,35
+China-mainland,P4,1
+China-mainland,Q1,29
+China-mainland,R1,5
+China-mainland,R2,3
+China-mainland,TD,10
+China-mainland,U2,1
+China-Taiwan,B1,1
+China-Taiwan,B1/B2,695
+China-Taiwan,C1,2
+China-Taiwan,C1/D,241
+China-Taiwan,CW1,2
+China-Taiwan,E1,26
+China-Taiwan,E2,38
+China-Taiwan,F1,468
+China-Taiwan,F2,24
+China-Taiwan,G4,2
+China-Taiwan,H1B,75
+China-Taiwan,H2B,99
+China-Taiwan,H3,4
+China-Taiwan,H4,24
+China-Taiwan,I,21
+China-Taiwan,J1,746
+China-Taiwan,J2,42
+China-Taiwan,K1,17
+China-Taiwan,L1,61
+China-Taiwan,L2,54
+China-Taiwan,M1,10
+China-Taiwan,O1,11
+China-Taiwan,O2,9
+China-Taiwan,O3,2
+China-Taiwan,P1,4
+China-Taiwan,P3,30
+China-Taiwan,P4,2
+China-Taiwan,R1,6
+Colombia,A1,9
+Colombia,A2,301
+Colombia,A3,2
+Colombia,B1,44
+Colombia,B2,1
+Colombia,C1,2
+Colombia,C1/D,111
+Colombia,C3,1
+Colombia,E1,5
+Colombia,E2,27
+Colombia,E3D,1
+Colombia,F1,231
+Colombia,F2,19
+Colombia,G1,3
+Colombia,G2,5
+Colombia,G4,34
+Colombia,G5,1
+Colombia,H1B,24
+Colombia,H2A,19
+Colombia,H2B,6
+Colombia,H4,11
+Colombia,I,2
+Colombia,J2,6
+Colombia,K1,100
+Colombia,K2,25
+Colombia,L1,36
+Colombia,L2,37
+Colombia,M1,14
+Colombia,N8,1
+Colombia,O1,8
+Colombia,O2,18
+Colombia,O3,4
+Colombia,P1,31
+Colombia,P4,3
+Colombia,R1,4
+Colombia,R2,1
+Colombia,TD,1
+Colombia,U3,1
+Comoros,A3,1
+Comoros,B1/B2,8
+"Congo, Democratic Republic of the",A1,1
+"Congo, Democratic Republic of the",A2,18
+"Congo, Democratic Republic of the",B1,8
+"Congo, Democratic Republic of the",B1/B2,816
+"Congo, Democratic Republic of the",F1,18
+"Congo, Democratic Republic of the",G2,30
+"Congo, Democratic Republic of the",G4,10
+"Congo, Democratic Republic of the",H1B,3
+"Congo, Democratic Republic of the",I,2
+"Congo, Democratic Republic of the",J1,5
+"Congo, Democratic Republic of the",K1,7
+"Congo, Democratic Republic of the",M1,2
+"Congo, Democratic Republic of the",O1,1
+"Congo, Democratic Republic of the",O2,5
+"Congo, Democratic Republic of the",R1,1
+"Congo, Republic of the",A1,1
+"Congo, Republic of the",A2,1
+"Congo, Republic of the",B1/B2,92
+"Congo, Republic of the",F1,2
+"Congo, Republic of the",G2,21
+"Congo, Republic of the",G4,7
+Costa Rica,A1,4
+Costa Rica,A2,21
+Costa Rica,B1,27
+Costa Rica,C1/D,16
+Costa Rica,C3,4
+Costa Rica,F1,26
+Costa Rica,G1,2
+Costa Rica,G4,17
+Costa Rica,H1B,6
+Costa Rica,H2A,62
+Costa Rica,H2B,86
+Costa Rica,H4,2
+Costa Rica,I,2
+Costa Rica,J1,19
+Costa Rica,J2,5
+Costa Rica,K1,2
+Costa Rica,L1,39
+Costa Rica,L2,32
+Costa Rica,M1,1
+Costa Rica,O1,3
+Costa Rica,O3,4
+Costa Rica,R1,1
+Cote D'Ivoire,A1,1
+Cote D'Ivoire,A2,18
+Cote D'Ivoire,A3,1
+Cote D'Ivoire,B1/B2,601
+Cote D'Ivoire,B2,1
+Cote D'Ivoire,C1/D,2
+Cote D'Ivoire,C2,1
+Cote D'Ivoire,F1,14
+Cote D'Ivoire,F2,1
+Cote D'Ivoire,G2,16
+Cote D'Ivoire,G4,13
+Cote D'Ivoire,H1B,1
+Cote D'Ivoire,I,4
+Cote D'Ivoire,J1,3
+Cote D'Ivoire,K1,6
+Cote D'Ivoire,K2,1
+Cote D'Ivoire,L1,1
+Croatia,A2,6
+Croatia,B1,18
+Croatia,C1/D,166
+Croatia,E2,2
+Croatia,F1,5
+Croatia,G2,2
+Croatia,G3,2
+Croatia,G4,4
+Croatia,H1B,5
+Croatia,I,1
+Croatia,J1,270
+Croatia,J2,1
+Croatia,K1,3
+Croatia,K2,1
+Croatia,L1,6
+Croatia,L2,2
+Croatia,NATO2,4
+Croatia,O1,2
+Croatia,P1,2
+Cuba,A1,6
+Cuba,A2,2
+Cuba,B1,52
+Cuba,B1/B2,282
+Cuba,B2,265
+Cuba,C1,2
+Cuba,C1/D,1
+Cuba,F1,2
+Cuba,G1,13
+Cuba,G2,7
+Cuba,J1,2
+Cuba,J2,2
+Cuba,K1,30
+Cuba,K2,5
+Cuba,O2,1
+Cuba,P1,39
+Cyprus,A2,3
+Cyprus,B1/B2,506
+Cyprus,C1/D,9
+Cyprus,F1,2
+Cyprus,G2,2
+Cyprus,G4,2
+Cyprus,H1B,1
+Cyprus,J1,5
+Cyprus,L1,1
+Cyprus,M1,1
+Cyprus,O1,2
+Czech Republic,A2,48
+Czech Republic,B1,21
+Czech Republic,B1/B2,90
+Czech Republic,B2,2
+Czech Republic,C1/D,19
+Czech Republic,E2,11
+Czech Republic,F1,16
+Czech Republic,F2,2
+Czech Republic,G1,2
+Czech Republic,G2,7
+Czech Republic,G3,1
+Czech Republic,G4,2
+Czech Republic,H1B,4
+Czech Republic,H2B,11
+Czech Republic,H4,5
+Czech Republic,I,7
+Czech Republic,J1,631
+Czech Republic,J2,1
+Czech Republic,K1,3
+Czech Republic,L1,9
+Czech Republic,L2,7
+Czech Republic,NATO2,1
+Czech Republic,O1,3
+Czech Republic,P3,1
+Denmark,A1,9
+Denmark,A2,32
+Denmark,B1,1
+Denmark,B1/B2,163
+Denmark,C1/D,29
+Denmark,E1,5
+Denmark,E2,16
+Denmark,F1,29
+Denmark,G1,1
+Denmark,G2,8
+Denmark,G3,1
+Denmark,G4,12
+Denmark,H1B,2
+Denmark,H2A,1
+Denmark,H3,1
+Denmark,I,6
+Denmark,J1,78
+Denmark,J2,18
+Denmark,K1,5
+Denmark,L1,29
+Denmark,L2,28
+Denmark,NATO2,12
+Denmark,NATO4,1
+Denmark,O1,9
+Denmark,O2,6
+Denmark,P1,8
+Djibouti,A2,5
+Djibouti,A3,1
+Djibouti,B1,4
+Djibouti,B1/B2,13
+Djibouti,G2,7
+Djibouti,G4,1
+Djibouti,J1,1
+Djibouti,K1,1
+Dominica,A2,7
+Dominica,B1/B2,201
+Dominica,B2,1
+Dominica,C1/D,8
+Dominica,F1,6
+Dominica,G2,2
+Dominica,G4,1
+Dominica,K1,1
+Dominica,L2,1
+Dominica,M1,1
+Dominica,P1,10
+Dominican Republic,A1,2
+Dominican Republic,A2,28
+Dominican Republic,A3,1
+Dominican Republic,B1,27
+Dominican Republic,B2,3
+Dominican Republic,C1,3
+Dominican Republic,C1/D,62
+Dominican Republic,C3,1
+Dominican Republic,F1,15
+Dominican Republic,F2,2
+Dominican Republic,G1,3
+Dominican Republic,G4,4
+Dominican Republic,H1B,6
+Dominican Republic,H2A,4
+Dominican Republic,H2B,6
+Dominican Republic,H4,3
+Dominican Republic,I,3
+Dominican Republic,J2,4
+Dominican Republic,K1,138
+Dominican Republic,K2,36
+Dominican Republic,L1,4
+Dominican Republic,L2,5
+Dominican Republic,O1,3
+Dominican Republic,O2,7
+Dominican Republic,O3,1
+Dominican Republic,P1,65
+Dominican Republic,P4,4
+Dominican Republic,R1,1
+Dominican Republic,T2,1
+Dominican Republic,T3,4
+Dominican Republic,U3,7
+Ecuador,A1,3
+Ecuador,A2,92
+Ecuador,B1,16
+Ecuador,C1,8
+Ecuador,C1/D,38
+Ecuador,E2,2
+Ecuador,F1,73
+Ecuador,F2,6
+Ecuador,G2,3
+Ecuador,G4,10
+Ecuador,H1B,6
+Ecuador,H2A,3
+Ecuador,H2B,6
+Ecuador,H4,1
+Ecuador,J1,321
+Ecuador,J2,3
+Ecuador,K1,13
+Ecuador,K2,5
+Ecuador,L1,7
+Ecuador,L2,7
+Ecuador,M1,5
+Ecuador,O1,1
+Ecuador,P1,2
+Ecuador,R1,1
+Ecuador,T3,1
+Ecuador,U1,1
+Ecuador,U3,5
+Egypt,A1,11
+Egypt,A2,226
+Egypt,A3,3
+Egypt,B1,25
+Egypt,B2,2
+Egypt,C1,1
+Egypt,C1/D,77
+Egypt,E2,5
+Egypt,F1,55
+Egypt,F2,17
+Egypt,G1,1
+Egypt,G2,18
+Egypt,G4,25
+Egypt,H1B,15
+Egypt,H4,10
+Egypt,I,7
+Egypt,J1,107
+Egypt,J2,30
+Egypt,K1,27
+Egypt,L1,19
+Egypt,L2,20
+Egypt,M1,4
+Egypt,O1,4
+Egypt,O3,1
+El Salvador,A1,5
+El Salvador,A2,36
+El Salvador,B1,35
+El Salvador,B2,1
+El Salvador,C1,2
+El Salvador,C1/D,23
+El Salvador,C3,3
+El Salvador,F1,11
+El Salvador,F2,2
+El Salvador,G1,5
+El Salvador,G2,9
+El Salvador,G4,3
+El Salvador,H1B,5
+El Salvador,H2A,25
+El Salvador,H2B,145
+El Salvador,H4,1
+El Salvador,I,3
+El Salvador,J1,28
+El Salvador,K1,14
+El Salvador,K2,8
+El Salvador,L1,4
+El Salvador,L2,7
+El Salvador,TD,1
+El Salvador,U3,13
+Equatorial Guinea,A2,5
+Equatorial Guinea,B1,1
+Equatorial Guinea,B1/B2,104
+Equatorial Guinea,F1,3
+Equatorial Guinea,G2,2
+Eritrea,B1,6
+Eritrea,B1/B2,61
+Eritrea,G4,2
+Eritrea,K1,2
+Eritrea,P1,3
+Estonia,A2,10
+Estonia,B1/B2,9
+Estonia,C1/D,9
+Estonia,F1,2
+Estonia,F2,2
+Estonia,G2,2
+Estonia,G4,2
+Estonia,H1B,1
+Estonia,I,1
+Estonia,J1,111
+Estonia,J2,1
+Estonia,K1,3
+Estonia,NATO2,19
+Estonia,O1,1
+Eswatini,A1,3
+Eswatini,A2,4
+Eswatini,B1/B2,55
+Eswatini,C1/D,1
+Eswatini,F1,2
+Eswatini,G4,1
+Eswatini,I,2
+Eswatini,J1,1
+Ethiopia,A1,21
+Ethiopia,A2,27
+Ethiopia,B1,10
+Ethiopia,B2,2
+Ethiopia,C1/D,82
+Ethiopia,F1,26
+Ethiopia,F2,2
+Ethiopia,G1,11
+Ethiopia,G2,1
+Ethiopia,G4,44
+Ethiopia,H1B,4
+Ethiopia,J1,31
+Ethiopia,J2,7
+Ethiopia,K1,12
+Ethiopia,K2,1
+Ethiopia,L1,1
+Ethiopia,L2,2
+Ethiopia,O1,2
+Ethiopia,O2,1
+Ethiopia,P1,8
+Ethiopia,R1,1
+Federated States of Micronesia,J1,2
+Fiji,A2,12
+Fiji,B1,2
+Fiji,B1/B2,203
+Fiji,C1,19
+Fiji,C1/D,24
+Fiji,C3,1
+Fiji,G2,4
+Fiji,G4,2
+Fiji,J1,6
+Fiji,K1,5
+Fiji,K2,2
+Fiji,M1,1
+Finland,A1,3
+Finland,A2,45
+Finland,B1,11
+Finland,B1/B2,53
+Finland,C1/D,86
+Finland,E2,15
+Finland,F1,23
+Finland,F2,2
+Finland,G1,4
+Finland,G2,14
+Finland,G4,6
+Finland,H1B,1
+Finland,I,6
+Finland,J1,31
+Finland,J2,3
+Finland,K1,6
+Finland,L1,34
+Finland,L2,20
+Finland,O1,1
+Finland,O2,1
+Finland,P1,15
+France,A1,6
+France,A2,215
+France,B1,22
+France,B2,3
+France,C1/D,311
+France,E1,25
+France,E2,190
+France,E3D,2
+France,F1,172
+France,F2,9
+France,G1,4
+France,G2,11
+France,G3,6
+France,G4,82
+France,H1B,55
+France,H2A,1
+France,H3,1
+France,H4,11
+France,I,40
+France,J1,882
+France,J2,48
+France,K1,16
+France,K2,2
+France,L1,226
+France,L2,217
+France,M1,21
+France,NATO2,48
+France,O1,60
+France,O2,34
+France,O3,14
+France,P1,57
+France,P3,11
+France,Q1,7
+France,R1,4
+Gabon,A1,1
+Gabon,A2,10
+Gabon,B1,1
+Gabon,B1/B2,93
+Gabon,F1,2
+Gabon,G2,8
+Gabon,G4,4
+Gabon,H1B,1
+Gabon,K1,1
+Gabon,K2,1
+"Gambia, The",A1,3
+"Gambia, The",B1/B2,83
+"Gambia, The",C3,2
+"Gambia, The",G2,9
+"Gambia, The",G4,2
+"Gambia, The",J1,1
+"Gambia, The",K1,4
+Georgia,A1,3
+Georgia,A2,39
+Georgia,B1,1
+Georgia,B1/B2,339
+Georgia,C1/D,28
+Georgia,F1,6
+Georgia,G2,6
+Georgia,G4,7
+Georgia,H1B,2
+Georgia,H2B,1
+Georgia,J1,70
+Georgia,K1,3
+Georgia,M1,1
+Georgia,O1,1
+Georgia,O3,1
+Georgia,P1,6
+Germany,A1,25
+Germany,A2,137
+Germany,B1,26
+Germany,B2,3
+Germany,C1,1
+Germany,C1/D,348
+Germany,D,1
+Germany,E1,31
+Germany,E2,257
+Germany,E3D,2
+Germany,F1,264
+Germany,F2,16
+Germany,G1,8
+Germany,G2,13
+Germany,G3,1
+Germany,G4,34
+Germany,H1B,37
+Germany,H2A,2
+Germany,H3,2
+Germany,H4,7
+Germany,I,64
+Germany,J2,51
+Germany,K1,15
+Germany,K2,1
+Germany,L1,249
+Germany,L2,122
+Germany,M1,26
+Germany,M2,1
+Germany,NATO2,79
+Germany,NATO4,3
+Germany,NATO6,32
+Germany,O1,51
+Germany,O2,31
+Germany,O3,14
+Germany,P1,18
+Germany,P3,3
+Germany,Q1,5
+Germany,R1,6
+Germany,R2,1
+Ghana,A2,71
+Ghana,B1,3
+Ghana,B2,7
+Ghana,C1,3
+Ghana,C1/D,16
+Ghana,F1,39
+Ghana,F2,5
+Ghana,G2,9
+Ghana,G4,8
+Ghana,H1B,3
+Ghana,H4,5
+Ghana,I,5
+Ghana,J1,86
+Ghana,K1,22
+Ghana,K2,2
+Ghana,L1,3
+Ghana,L2,2
+Ghana,P4,1
+Ghana,R1,4
+Great Britain & Northern Ireland,A1,20
+Great Britain & Northern Ireland,A2,350
+Great Britain & Northern Ireland,A3,1
+Great Britain & Northern Ireland,B1,115
+Great Britain & Northern Ireland,B2,18
+Great Britain & Northern Ireland,C1,2
+Great Britain & Northern Ireland,C1/D,582
+Great Britain & Northern Ireland,C3,18
+Great Britain & Northern Ireland,E1,16
+Great Britain & Northern Ireland,E2,255
+Great Britain & Northern Ireland,E3D,11
+Great Britain & Northern Ireland,F1,186
+Great Britain & Northern Ireland,F2,6
+Great Britain & Northern Ireland,G1,6
+Great Britain & Northern Ireland,G2,15
+Great Britain & Northern Ireland,G4,65
+Great Britain & Northern Ireland,H1B,76
+Great Britain & Northern Ireland,H2A,13
+Great Britain & Northern Ireland,H2B,25
+Great Britain & Northern Ireland,H3,5
+Great Britain & Northern Ireland,H4,40
+Great Britain & Northern Ireland,I,174
+Great Britain & Northern Ireland,J2,16
+Great Britain & Northern Ireland,K1,90
+Great Britain & Northern Ireland,K2,3
+Great Britain & Northern Ireland,L1,464
+Great Britain & Northern Ireland,L2,333
+Great Britain & Northern Ireland,M1,19
+Great Britain & Northern Ireland,NATO2,76
+Great Britain & Northern Ireland,NATO4,1
+Great Britain & Northern Ireland,NATO6,1
+Great Britain & Northern Ireland,O1,225
+Great Britain & Northern Ireland,O2,261
+Great Britain & Northern Ireland,O3,47
+Great Britain & Northern Ireland,P1,165
+Great Britain & Northern Ireland,P2,10
+Great Britain & Northern Ireland,P3,8
+Great Britain & Northern Ireland,P4,2
+Great Britain & Northern Ireland,Q1,7
+Great Britain & Northern Ireland,R1,9
+Great Britain & Northern Ireland,R2,10
+Greece,A2,6
+Greece,B1,31
+Greece,B1/B2,108
+Greece,C1/D,285
+Greece,E1,4
+Greece,F1,25
+Greece,F2,3
+Greece,G2,6
+Greece,G4,2
+Greece,H1B,19
+Greece,H4,2
+Greece,I,2
+Greece,J1,65
+Greece,J2,8
+Greece,K1,6
+Greece,L1,8
+Greece,L2,4
+Greece,M1,2
+Greece,NATO2,17
+Greece,NATO4,3
+Greece,O1,5
+Greece,P1,6
+Greece,P3,26
+Greece,R1,5
+Grenada,A2,1
+Grenada,B1/B2,304
+Grenada,C1/D,8
+Grenada,C3,5
+Grenada,E2,4
+Grenada,F1,3
+Grenada,J1,4
+Grenada,P3,1
+Guatemala,A1,5
+Guatemala,A2,30
+Guatemala,B1,3
+Guatemala,C1,6
+Guatemala,C1/D,7
+Guatemala,C3,17
+Guatemala,F1,7
+Guatemala,G4,8
+Guatemala,H1B,2
+Guatemala,H2A,902
+Guatemala,H2B,502
+Guatemala,H3,1
+Guatemala,J1,15
+Guatemala,J2,1
+Guatemala,K1,10
+Guatemala,K2,3
+Guatemala,L1,7
+Guatemala,L2,8
+Guatemala,O1,4
+Guatemala,O3,4
+Guatemala,R1,3
+Guatemala,U1,1
+Guatemala,U2,3
+Guatemala,U3,25
+Guinea,A2,8
+Guinea,B1/B2,66
+Guinea,F1,1
+Guinea,G2,7
+Guinea,G4,3
+Guinea,K1,7
+Guinea,O1,1
+Guinea-Bissau,A2,2
+Guinea-Bissau,B1/B2,6
+Guinea-Bissau,G2,3
+Guinea-Bissau,G4,2
+Guinea-Bissau,K1,1
+Guyana,A2,5
+Guyana,B1,1
+Guyana,B1/B2,525
+Guyana,C1,17
+Guyana,C1/D,14
+Guyana,C3,47
+Guyana,F1,3
+Guyana,G1,1
+Guyana,G4,2
+Guyana,J1,3
+Guyana,K1,3
+Guyana,M1,1
+Guyana,P3,1
+Haiti,A1,4
+Haiti,A2,16
+Haiti,B1,2
+Haiti,C1,6
+Haiti,C1/D,6
+Haiti,C3,21
+Haiti,F1,16
+Haiti,G2,5
+Haiti,G4,8
+Haiti,H1B,1
+Haiti,I,6
+Haiti,J1,14
+Haiti,K1,44
+Haiti,K2,12
+Haiti,P3,9
+Haiti,R1,1
+Haiti,R2,3
+Honduras,A1,8
+Honduras,A2,46
+Honduras,B1,10
+Honduras,B2,14
+Honduras,C1,3
+Honduras,C1/D,136
+Honduras,C3,4
+Honduras,E1,1
+Honduras,F1,11
+Honduras,G1,3
+Honduras,G2,1
+Honduras,G4,4
+Honduras,H1B,4
+Honduras,H2A,38
+Honduras,H2B,49
+Honduras,H4,1
+Honduras,I,2
+Honduras,J1,11
+Honduras,J2,4
+Honduras,K1,11
+Honduras,K2,4
+Honduras,L1,4
+Honduras,L2,4
+Honduras,O3,1
+Honduras,P1,1
+Honduras,R2,1
+Honduras,T2,1
+Honduras,T3,3
+Honduras,T4,1
+Honduras,T5,1
+Honduras,U1,2
+Honduras,U3,15
+Hong Kong S. A. R.,B1,23
+Hong Kong S. A. R.,C1,1
+Hong Kong S. A. R.,C1/D,72
+Hong Kong S. A. R.,CW1,2
+Hong Kong S. A. R.,E2,2
+Hong Kong S. A. R.,F1,162
+Hong Kong S. A. R.,F2,3
+Hong Kong S. A. R.,G4,4
+Hong Kong S. A. R.,H1B,18
+Hong Kong S. A. R.,H4,2
+Hong Kong S. A. R.,I,6
+Hong Kong S. A. R.,J1,148
+Hong Kong S. A. R.,K1,4
+Hong Kong S. A. R.,L1,5
+Hong Kong S. A. R.,L2,6
+Hong Kong S. A. R.,M1,4
+Hong Kong S. A. R.,O1,2
+Hong Kong S. A. R.,O2,24
+Hong Kong S. A. R.,P1,6
+Hong Kong S. A. R.,Q1,3
+Hong Kong S. A. R.,R1,1
+Hungary,A2,3
+Hungary,B1,1
+Hungary,B1/B2,73
+Hungary,C1/D,15
+Hungary,F1,14
+Hungary,F2,3
+Hungary,G2,13
+Hungary,G3,1
+Hungary,G4,10
+Hungary,H1B,7
+Hungary,H2B,6
+Hungary,H4,4
+Hungary,I,1
+Hungary,J1,567
+Hungary,J2,3
+Hungary,K1,1
+Hungary,L1,18
+Hungary,L2,19
+Hungary,NATO2,27
+Hungary,NATO4,1
+Hungary,O1,1
+Hungary,O2,1
+Hungary,O3,1
+Hungary,P1,6
+Hungary,R1,1
+Iceland,A2,1
+Iceland,B1/B2,21
+Iceland,C1/D,9
+Iceland,F1,6
+Iceland,G1,5
+Iceland,G2,3
+Iceland,G4,2
+Iceland,H1B,1
+Iceland,J1,8
+Iceland,J2,1
+Iceland,L1,1
+Iceland,M1,1
+Iceland,M2,3
+Iceland,O1,2
+Iceland,O2,8
+Iceland,P1,24
+India,A1,16
+India,A2,133
+India,A3,14
+India,B1,79
+India,B2,282
+India,C1,45
+India,C3,25
+India,E2,3
+India,E2C,3
+India,E3D,11
+India,F1,686
+India,F2,152
+India,G1,4
+India,G2,9
+India,G4,116
+India,G5,1
+India,H3,2
+India,I,9
+India,J1,805
+India,J2,148
+India,K1,60
+India,K2,4
+India,M1,33
+India,M2,1
+India,O1,39
+India,O2,21
+India,O3,10
+India,P1,10
+India,P3,270
+India,P4,3
+India,R1,46
+India,R2,41
+India,TD,7
+India,U1,2
+India,U2,2
+India,U3,1
+Indonesia,A1,9
+Indonesia,A2,225
+Indonesia,B1,66
+Indonesia,B2,2
+Indonesia,C1,1
+Indonesia,C3,3
+Indonesia,F1,87
+Indonesia,F2,13
+Indonesia,G1,5
+Indonesia,G2,98
+Indonesia,G4,20
+Indonesia,H1B,12
+Indonesia,H3,1
+Indonesia,H4,3
+Indonesia,I,5
+Indonesia,J1,50
+Indonesia,J2,6
+Indonesia,K1,23
+Indonesia,L1,9
+Indonesia,L2,15
+Indonesia,M1,5
+Indonesia,O1,7
+Indonesia,R1,1
+Iran,B1/B2,91
+Iran,F1,36
+Iran,F2,2
+Iran,G1,5
+Iran,G2,26
+Iran,G4,13
+Iran,J1,22
+Iran,J2,5
+Iran,K1,1
+Iran,L1,1
+Iraq,A1,12
+Iraq,A2,49
+Iraq,B1,7
+Iraq,B1/B2,871
+Iraq,B2,1
+Iraq,C1/D,2
+Iraq,F1,7
+Iraq,F2,1
+Iraq,G1,11
+Iraq,G2,9
+Iraq,G4,5
+Iraq,H1B,2
+Iraq,H4,1
+Iraq,J1,24
+Iraq,J2,4
+Iraq,K1,31
+Iraq,L1,4
+Iraq,L2,5
+Iraq,M1,1
+Ireland,A2,8
+Ireland,B1,8
+Ireland,B1/B2,227
+Ireland,B2,1
+Ireland,C1/D,92
+Ireland,E1,1
+Ireland,E2,21
+Ireland,E3D,1
+Ireland,F1,12
+Ireland,G2,1
+Ireland,G4,8
+Ireland,H1B,25
+Ireland,H2A,8
+Ireland,H2B,5
+Ireland,H3,5
+Ireland,H4,3
+Ireland,I,4
+Ireland,J2,7
+Ireland,K1,15
+Ireland,L1,102
+Ireland,L2,62
+Ireland,M1,4
+Ireland,O1,20
+Ireland,O2,27
+Ireland,P1,26
+Ireland,P3,18
+Ireland,P4,1
+Ireland,R1,1
+Ireland,TD,1
+Israel,A1,27
+Israel,A2,279
+Israel,B1,72
+Israel,B2,155
+Israel,C1/D,73
+Israel,E1,31
+Israel,E2,12
+Israel,F1,63
+Israel,F2,2
+Israel,G1,1
+Israel,H1B,24
+Israel,H3,3
+Israel,H4,34
+Israel,I,1
+Israel,J1,226
+Israel,J2,105
+Israel,K1,4
+Israel,L1,91
+Israel,L2,125
+Israel,M1,6
+Israel,O1,21
+Israel,O2,2
+Israel,O3,23
+Israel,P1,5
+Israel,P2,1
+Israel,P3,12
+Israel,P4,1
+Israel,R1,5
+Israel,R2,5
+Italy,A1,1
+Italy,A2,45
+Italy,A3,1
+Italy,B1,97
+Italy,B1/B2,733
+Italy,B2,5
+Italy,C1/D,193
+Italy,E1,25
+Italy,E2,120
+Italy,E3D,1
+Italy,F1,165
+Italy,F2,4
+Italy,G1,7
+Italy,G2,9
+Italy,G3,5
+Italy,G4,32
+Italy,H1B,54
+Italy,H2B,1
+Italy,H3,2
+Italy,H4,12
+Italy,I,9
+Italy,J1,437
+Italy,J2,19
+Italy,K1,11
+Italy,K2,1
+Italy,L1,128
+Italy,L2,80
+Italy,M1,2
+Italy,NATO2,54
+Italy,NATO4,4
+Italy,NATO6,3
+Italy,O1,46
+Italy,O2,4
+Italy,O3,16
+Italy,P1,37
+Italy,P4,1
+Italy,Q1,6
+Italy,R1,5
+Jamaica,A1,1
+Jamaica,A2,17
+Jamaica,B1,17
+Jamaica,B2,128
+Jamaica,C1,7
+Jamaica,C1/D,85
+Jamaica,C3,1
+Jamaica,F1,18
+Jamaica,F2,3
+Jamaica,G2,5
+Jamaica,G4,5
+Jamaica,H1B,6
+Jamaica,H2A,479
+Jamaica,H2B,774
+Jamaica,H4,4
+Jamaica,I,1
+Jamaica,J2,5
+Jamaica,K1,33
+Jamaica,K2,7
+Jamaica,L1,1
+Jamaica,O1,3
+Jamaica,O2,2
+Jamaica,P1,11
+Jamaica,P3,2
+Jamaica,R2,1
+Japan,A1,40
+Japan,A2,536
+Japan,B1,12
+Japan,B1/B2,422
+Japan,C1,2
+Japan,C1/D,406
+Japan,C3,44
+Japan,CW1,2
+Japan,CW2,1
+Japan,E1,230
+Japan,F1,849
+Japan,F2,44
+Japan,G1,2
+Japan,G2,14
+Japan,G4,20
+Japan,H1B,37
+Japan,H3,2
+Japan,H4,25
+Japan,I,105
+Japan,J1,383
+Japan,J2,254
+Japan,K1,51
+Japan,K2,2
+Japan,L1,372
+Japan,L2,411
+Japan,M1,36
+Japan,O1,24
+Japan,O2,8
+Japan,O3,6
+Japan,P1,68
+Japan,P2,1
+Japan,P3,5
+Japan,P4,1
+Japan,Q1,49
+Japan,R1,6
+Japan,R2,1
+Japan,TD,1
+Japan,U3,1
+Jordan,A1,11
+Jordan,A2,202
+Jordan,B1,9
+Jordan,B2,2
+Jordan,C1/D,23
+Jordan,D,2
+Jordan,E2,11
+Jordan,F1,37
+Jordan,F2,12
+Jordan,G1,11
+Jordan,G2,9
+Jordan,G4,17
+Jordan,H1B,15
+Jordan,H4,6
+Jordan,I,1
+Jordan,J1,141
+Jordan,J2,7
+Jordan,K1,10
+Jordan,L1,5
+Jordan,L2,2
+Jordan,M1,2
+Jordan,O1,1
+Kazakhstan,A2,19
+Kazakhstan,B1,3
+Kazakhstan,B2,22
+Kazakhstan,C1,3
+Kazakhstan,D,12
+Kazakhstan,E2,7
+Kazakhstan,F1,79
+Kazakhstan,F2,33
+Kazakhstan,G2,8
+Kazakhstan,G4,7
+Kazakhstan,H1B,3
+Kazakhstan,H4,2
+Kazakhstan,J1,877
+Kazakhstan,J2,2
+Kazakhstan,K1,9
+Kazakhstan,K2,1
+Kazakhstan,L1,2
+Kazakhstan,L2,9
+Kazakhstan,O1,2
+Kazakhstan,O3,1
+Kazakhstan,P1,2
+Kenya,A1,14
+Kenya,A2,103
+Kenya,A3,1
+Kenya,C1,2
+Kenya,C1/D,35
+Kenya,F1,26
+Kenya,F2,9
+Kenya,G1,2
+Kenya,G2,20
+Kenya,G4,60
+Kenya,G5,1
+Kenya,H1B,7
+Kenya,H4,3
+Kenya,J1,41
+Kenya,J2,5
+Kenya,K1,11
+Kenya,K2,3
+Kenya,L1,4
+Kenya,L2,2
+Kenya,M1,1
+Kenya,O1,1
+Kenya,P1,3
+Kenya,P3,2
+Kenya,P4,1
+Kenya,R1,2
+Kiribati,A2,1
+Kiribati,B1/B2,4
+Kiribati,C1/D,14
+Kiribati,C3,2
+Kiribati,G2,2
+Kiribati,J1,7
+Kiribati,R1,1
+"Korea, North",G3,3
+"Korea, South",A1,15
+"Korea, South",A2,243
+"Korea, South",B1,3
+"Korea, South",C1/D,393
+"Korea, South",C3,9
+"Korea, South",CW1,28
+"Korea, South",CW2,9
+"Korea, South",E1,8
+"Korea, South",E2,297
+"Korea, South",E2C,6
+"Korea, South",E3D,1
+"Korea, South",F1,862
+"Korea, South",F2,216
+"Korea, South",G2,12
+"Korea, South",G4,24
+"Korea, South",H1B,118
+"Korea, South",H3,5
+"Korea, South",H4,47
+"Korea, South",I,58
+"Korea, South",J1,472
+"Korea, South",J2,321
+"Korea, South",K1,50
+"Korea, South",K2,5
+"Korea, South",L1,138
+"Korea, South",L2,242
+"Korea, South",M1,40
+"Korea, South",M2,7
+"Korea, South",O1,31
+"Korea, South",O2,4
+"Korea, South",O3,8
+"Korea, South",P1,221
+"Korea, South",P3,30
+"Korea, South",R1,18
+"Korea, South",R2,26
+Kosovo,A1,2
+Kosovo,A2,50
+Kosovo,B1/B2,334
+Kosovo,C1/D,2
+Kosovo,F1,3
+Kosovo,G2,6
+Kosovo,G4,2
+Kosovo,J1,204
+Kosovo,K1,15
+Kosovo,K2,2
+Kuwait,A1,6
+Kuwait,A2,38
+Kuwait,B2,1
+Kuwait,C1/D,7
+Kuwait,F1,57
+Kuwait,F2,11
+Kuwait,G1,20
+Kuwait,G2,15
+Kuwait,G4,2
+Kuwait,H1B,1
+Kuwait,J1,5
+Kuwait,J2,3
+Kuwait,M1,1
+Kyrgyzstan,A1,1
+Kyrgyzstan,A2,1
+Kyrgyzstan,B1,1
+Kyrgyzstan,B1/B2,94
+Kyrgyzstan,B2,1
+Kyrgyzstan,C1,8
+Kyrgyzstan,D,11
+Kyrgyzstan,F1,5
+Kyrgyzstan,G1,3
+Kyrgyzstan,G2,3
+Kyrgyzstan,G4,5
+Kyrgyzstan,J1,23
+Kyrgyzstan,K1,4
+Kyrgyzstan,K2,1
+Kyrgyzstan,L1,1
+Laos,A1,5
+Laos,A2,7
+Laos,B1/B2,187
+Laos,C3,4
+Laos,E2,1
+Laos,F1,10
+Laos,G1,1
+Laos,G2,15
+Laos,J1,7
+Laos,J2,1
+Laos,K1,25
+Laos,L2,2
+Laos,R1,3
+Latvia,A1,3
+Latvia,A2,9
+Latvia,B1/B2,34
+Latvia,C1/D,52
+Latvia,F1,4
+Latvia,H1B,2
+Latvia,H2B,1
+Latvia,J1,53
+Latvia,L1,3
+Latvia,L2,10
+Latvia,M1,1
+Latvia,NATO2,7
+Latvia,NATO6,1
+Latvia,R1,1
+Lebanon,A1,3
+Lebanon,A2,38
+Lebanon,B1,8
+Lebanon,B2,3
+Lebanon,C1,1
+Lebanon,C1/D,7
+Lebanon,F1,67
+Lebanon,F2,3
+Lebanon,G2,6
+Lebanon,G4,9
+Lebanon,H1B,8
+Lebanon,H4,5
+Lebanon,I,1
+Lebanon,J1,35
+Lebanon,J2,2
+Lebanon,K1,21
+Lebanon,L1,10
+Lebanon,L2,3
+Lebanon,M1,1
+Lebanon,O3,2
+Lebanon,P3,13
+Lebanon,TD,1
+Lesotho,A1,1
+Lesotho,A2,1
+Lesotho,B1/B2,20
+Lesotho,C1/D,1
+Lesotho,G1,1
+Lesotho,G4,1
+Lesotho,J1,2
+Liberia,A1,1
+Liberia,A2,18
+Liberia,B1/B2,276
+Liberia,F1,1
+Liberia,G2,20
+Liberia,J1,4
+Liberia,K1,13
+Liberia,O1,1
+Libya,A1,4
+Libya,A2,37
+Libya,B1/B2,2
+Libya,C2,1
+Libya,F1,12
+Libya,F2,8
+Libya,G1,28
+Libya,G2,7
+Libya,G4,3
+Libya,H1B,1
+Libya,H4,1
+Libya,J1,1
+Liechtenstein,B1/B2,1
+Liechtenstein,J1,2
+Liechtenstein,L1,1
+Lithuania,A1,1
+Lithuania,A2,12
+Lithuania,B1/B2,29
+Lithuania,C1/D,28
+Lithuania,E2,6
+Lithuania,F1,7
+Lithuania,G1,2
+Lithuania,G2,2
+Lithuania,G4,1
+Lithuania,H1B,2
+Lithuania,H2B,78
+Lithuania,H4,1
+Lithuania,I,4
+Lithuania,J1,648
+Lithuania,J2,5
+Lithuania,L1,5
+Lithuania,L2,8
+Lithuania,M1,1
+Lithuania,NATO2,1
+Lithuania,O1,4
+Lithuania,P1,4
+Lithuania,P3,7
+Luxembourg,A2,2
+Luxembourg,B1/B2,8
+Luxembourg,E1,1
+Luxembourg,G2,1
+Luxembourg,G4,3
+Luxembourg,I,1
+Luxembourg,J1,4
+Luxembourg,L2,1
+Luxembourg,NATO2,3
+Luxembourg,NATO4,1
+Luxembourg,O3,1
+Macau S. A. R.,B1/B2,313
+Macau S. A. R.,CW1,1
+Macau S. A. R.,F1,8
+Macau S. A. R.,H1B,1
+Macau S. A. R.,J1,9
+Macau S. A. R.,J2,1
+Madagascar,A1,9
+Madagascar,A2,8
+Madagascar,B1,1
+Madagascar,B1/B2,144
+Madagascar,C1,18
+Madagascar,D,24
+Madagascar,F1,2
+Madagascar,G1,5
+Madagascar,G2,16
+Madagascar,G4,7
+Madagascar,H1B,1
+Madagascar,J1,7
+Madagascar,L1,1
+Madagascar,M1,1
+Malawi,A2,32
+Malawi,B1,2
+Malawi,B1/B2,109
+Malawi,C1,6
+Malawi,F1,5
+Malawi,G2,6
+Malawi,G4,3
+Malawi,J1,5
+Malaysia,A1,8
+Malaysia,A2,38
+Malaysia,B1,52
+Malaysia,C1,4
+Malaysia,C1/D,166
+Malaysia,C3,3
+Malaysia,CW1,1
+Malaysia,CW2,1
+Malaysia,E2,2
+Malaysia,F1,80
+Malaysia,F2,2
+Malaysia,G1,1
+Malaysia,G2,20
+Malaysia,G4,11
+Malaysia,H1B,10
+Malaysia,H3,1
+Malaysia,H4,3
+Malaysia,I,2
+Malaysia,J1,598
+Malaysia,J2,3
+Malaysia,K1,7
+Malaysia,L1,69
+Malaysia,L2,21
+Malaysia,M1,1
+Malaysia,O1,3
+Malaysia,O3,1
+Malaysia,P1,1
+Malaysia,P3,1
+Malaysia,R1,1
+Maldives,A1,1
+Maldives,A2,7
+Maldives,B1/B2,6
+Maldives,G1,1
+Maldives,G2,5
+Mali,A2,6
+Mali,A3,1
+Mali,B1/B2,190
+Mali,F1,2
+Mali,G2,3
+Mali,G4,4
+Mali,I,1
+Mali,J1,4
+Mali,P1,2
+Malta,A2,2
+Malta,B1/B2,9
+Malta,C1/D,2
+Malta,F1,1
+Malta,J1,2
+Malta,L1,2
+Malta,L2,1
+"Marshall Islands, Republic of the",C1,3
+"Marshall Islands, Republic of the",J1,1
+Mauritania,A1,3
+Mauritania,A2,6
+Mauritania,B1,1
+Mauritania,B1/B2,142
+Mauritania,F1,1
+Mauritania,G1,5
+Mauritania,G2,15
+Mauritania,G4,3
+Mauritania,J1,1
+Mauritius,A2,2
+Mauritius,B1/B2,260
+Mauritius,C1,1
+Mauritius,C1/D,103
+Mauritius,F1,2
+Mauritius,G2,1
+Mauritius,G4,1
+Mauritius,J1,10
+Mexico,A1,9
+Mexico,A2,325
+Mexico,A3,1
+Mexico,B1,249
+Mexico,B2,56
+Mexico,C1,9
+Mexico,C1/D,273
+Mexico,D,2
+Mexico,E1,33
+Mexico,E2,126
+Mexico,E3D,1
+Mexico,F1,177
+Mexico,F2,19
+Mexico,G1,8
+Mexico,G2,5
+Mexico,G4,97
+Mexico,H1B,167
+Mexico,H4,163
+Mexico,I,55
+Mexico,J2,13
+Mexico,K1,135
+Mexico,K2,22
+Mexico,L1,336
+Mexico,L2,347
+Mexico,M1,24
+Mexico,O1,40
+Mexico,O2,54
+Mexico,O3,19
+Mexico,P1,389
+Mexico,P3,33
+Mexico,P4,7
+Mexico,Q1,12
+Mexico,R1,29
+Mexico,R2,8
+Mexico,T2,1
+Mexico,T3,4
+Mexico,TD,722
+Mexico,U1,3
+Mexico,U2,6
+Mexico,U3,35
+Mexico,U4,1
+Moldova,A1,1
+Moldova,A2,6
+Moldova,B1,4
+Moldova,B1/B2,206
+Moldova,B2,1
+Moldova,C1/D,4
+Moldova,E2,4
+Moldova,F1,2
+Moldova,G2,1
+Moldova,G4,1
+Moldova,H1B,2
+Moldova,H2A,6
+Moldova,H4,4
+Moldova,J1,140
+Moldova,K1,8
+Moldova,K2,1
+Moldova,L1,2
+Moldova,L2,2
+Moldova,R1,1
+Mongolia,A1,5
+Mongolia,A2,32
+Mongolia,B1/B2,569
+Mongolia,C1,9
+Mongolia,E2,5
+Mongolia,F1,14
+Mongolia,F2,9
+Mongolia,G2,17
+Mongolia,G4,3
+Mongolia,H2A,5
+Mongolia,I,3
+Mongolia,J1,354
+Mongolia,J2,5
+Mongolia,L1,1
+Mongolia,L2,1
+Mongolia,M1,1
+Mongolia,P1,12
+Mongolia,P4,1
+Mongolia,U2,1
+Montenegro,A1,2
+Montenegro,A2,18
+Montenegro,B1,1
+Montenegro,B1/B2,275
+Montenegro,B2,2
+Montenegro,C1/D,112
+Montenegro,F1,2
+Montenegro,G2,3
+Montenegro,G4,1
+Montenegro,H2B,6
+Montenegro,J1,581
+Montenegro,J2,1
+Montenegro,L1,1
+Morocco,A1,2
+Morocco,A2,52
+Morocco,A3,2
+Morocco,B1,4
+Morocco,C1/D,56
+Morocco,E2,2
+Morocco,F1,13
+Morocco,F2,1
+Morocco,G1,9
+Morocco,G2,24
+Morocco,G4,11
+Morocco,H1B,2
+Morocco,H3,1
+Morocco,H4,2
+Morocco,I,3
+Morocco,J1,30
+Morocco,J2,1
+Morocco,K1,32
+Morocco,L1,2
+Morocco,O1,3
+Morocco,O3,2
+Morocco,P1,1
+Morocco,TD,1
+Mozambique,A1,1
+Mozambique,A2,10
+Mozambique,B1/B2,117
+Mozambique,C1/D,1
+Mozambique,F1,1
+Mozambique,G1,1
+Mozambique,G4,4
+Mozambique,J1,1
+Mozambique,K1,2
+Mozambique,L1,2
+Mozambique,L2,2
+Mozambique,O1,1
+Namibia,A1,3
+Namibia,A2,9
+Namibia,B1,2
+Namibia,B1/B2,136
+Namibia,C1/D,3
+Namibia,F1,1
+Namibia,G2,6
+Namibia,I,2
+Namibia,J1,3
+Nauru,A2,1
+Nauru,B1/B2,2
+Nauru,C1,2
+Nauru,D,2
+Nepal,A1,4
+Nepal,A2,17
+Nepal,A3,1
+Nepal,B1,4
+Nepal,C1,4
+Nepal,C1/D,16
+Nepal,CW1,1
+Nepal,F1,95
+Nepal,F2,17
+Nepal,G1,2
+Nepal,G2,9
+Nepal,G4,27
+Nepal,H1B,30
+Nepal,H4,10
+Nepal,I,1
+Nepal,J1,22
+Nepal,J2,1
+Nepal,K1,8
+Nepal,L1,2
+Nepal,L2,5
+Nepal,O1,1
+Nepal,O2,1
+Nepal,R1,1
+Netherlands,A1,4
+Netherlands,A2,64
+Netherlands,B1,46
+Netherlands,B1/B2,667
+Netherlands,B2,4
+Netherlands,C1,1
+Netherlands,C1/D,363
+Netherlands,C3,1
+Netherlands,E1,2
+Netherlands,E2,29
+Netherlands,F1,58
+Netherlands,G1,2
+Netherlands,G2,8
+Netherlands,G4,22
+Netherlands,H1B,13
+Netherlands,H2A,2
+Netherlands,H4,2
+Netherlands,I,10
+Netherlands,J1,254
+Netherlands,J2,14
+Netherlands,K1,20
+Netherlands,K2,2
+Netherlands,L1,75
+Netherlands,L2,60
+Netherlands,M1,15
+Netherlands,NATO2,20
+Netherlands,O1,25
+Netherlands,O2,12
+Netherlands,P1,17
+Netherlands,P4,2
+Netherlands,R1,1
+New Zealand,A1,15
+New Zealand,A2,79
+New Zealand,A3,1
+New Zealand,B1,4
+New Zealand,B1/B2,249
+New Zealand,C1/D,70
+New Zealand,C3,13
+New Zealand,E3D,3
+New Zealand,F1,14
+New Zealand,G1,1
+New Zealand,G2,9
+New Zealand,G4,6
+New Zealand,H1B,12
+New Zealand,H2A,6
+New Zealand,H4,10
+New Zealand,I,2
+New Zealand,J1,349
+New Zealand,J2,3
+New Zealand,K1,8
+New Zealand,L1,24
+New Zealand,L2,16
+New Zealand,M1,1
+New Zealand,O1,6
+New Zealand,O2,9
+New Zealand,O3,1
+New Zealand,P1,28
+New Zealand,R1,2
+New Zealand,TD,1
+Nicaragua,A2,4
+Nicaragua,B1,25
+Nicaragua,B1/B2,849
+Nicaragua,C1,36
+Nicaragua,C1/D,27
+Nicaragua,C3,1
+Nicaragua,F1,10
+Nicaragua,G2,1
+Nicaragua,G4,12
+Nicaragua,H2A,65
+Nicaragua,H2B,1
+Nicaragua,I,4
+Nicaragua,J1,4
+Nicaragua,J2,1
+Nicaragua,K1,8
+Nicaragua,K2,2
+Nicaragua,L1,3
+Nicaragua,L2,1
+Nicaragua,O1,1
+Nicaragua,O2,2
+Nicaragua,P1,2
+Nicaragua,P3,1
+Nicaragua,T3,1
+Nicaragua,U3,1
+Niger,A1,5
+Niger,A2,4
+Niger,B1,1
+Niger,B1/B2,54
+Niger,B2,4
+Niger,F1,3
+Niger,F2,1
+Niger,G2,3
+Niger,G4,1
+Niger,J1,1
+Nigeria,A1,14
+Nigeria,A2,127
+Nigeria,B1,8
+Nigeria,B2,3
+Nigeria,C1,4
+Nigeria,C1/D,4
+Nigeria,C3,2
+Nigeria,E2,1
+Nigeria,F1,110
+Nigeria,F2,17
+Nigeria,G1,8
+Nigeria,G2,15
+Nigeria,G4,36
+Nigeria,G5,1
+Nigeria,H1B,30
+Nigeria,H4,7
+Nigeria,I,15
+Nigeria,J1,120
+Nigeria,J2,4
+Nigeria,K1,84
+Nigeria,K2,7
+Nigeria,L1,11
+Nigeria,L2,11
+Nigeria,P3,4
+Nigeria,R1,5
+*Non-Nationality Based Issuances,B1/B2,207
+*Non-Nationality Based Issuances,B2,1
+*Non-Nationality Based Issuances,C1/D,23
+*Non-Nationality Based Issuances,F1,2
+*Non-Nationality Based Issuances,G4,5
+*Non-Nationality Based Issuances,J1,1
+*Non-Nationality Based Issuances,K1,3
+*Non-Nationality Based Issuances,R1,1
+North Macedonia,A2,6
+North Macedonia,B1/B2,256
+North Macedonia,C1/D,28
+North Macedonia,E2,1
+North Macedonia,F1,5
+North Macedonia,G2,2
+North Macedonia,G4,3
+North Macedonia,H2B,11
+North Macedonia,J1,896
+North Macedonia,K1,4
+North Macedonia,L1,2
+North Macedonia,L2,1
+North Macedonia,P3,9
+Norway,A1,6
+Norway,A2,10
+Norway,B1,3
+Norway,B1/B2,148
+Norway,C1/D,38
+Norway,E1,1
+Norway,E2,7
+Norway,F1,29
+Norway,F2,2
+Norway,G1,6
+Norway,G4,5
+Norway,H1B,1
+Norway,I,10
+Norway,J1,65
+Norway,J2,8
+Norway,K1,2
+Norway,L1,6
+Norway,L2,6
+Norway,M1,3
+Norway,NATO2,26
+Norway,NATO4,4
+Norway,NATO6,1
+Norway,O1,7
+Norway,O2,3
+Norway,P1,4
+Norway,Q1,11
+Oman,A1,2
+Oman,A2,39
+Oman,B1/B2,422
+Oman,B2,79
+Oman,C1/D,28
+Oman,E2,1
+Oman,F1,6
+Oman,F2,4
+Oman,G2,11
+Oman,I,1
+Oman,J1,1
+Oman,L1,5
+Oman,L2,11
+Oman,M1,1
+Pakistan,A1,8
+Pakistan,A2,118
+Pakistan,A3,1
+Pakistan,B1,4
+Pakistan,B2,57
+Pakistan,C1,1
+Pakistan,C1/D,26
+Pakistan,E2,1
+Pakistan,E3D,1
+Pakistan,F1,83
+Pakistan,F2,7
+Pakistan,G1,11
+Pakistan,G2,6
+Pakistan,G4,42
+Pakistan,G5,1
+Pakistan,H1B,36
+Pakistan,H4,31
+Pakistan,I,1
+Pakistan,J1,232
+Pakistan,J2,33
+Pakistan,K1,4
+Pakistan,L1,25
+Pakistan,L2,21
+Pakistan,M1,2
+Pakistan,O1,2
+Pakistan,O3,3
+Pakistan,P3,5
+Pakistan,TD,2
+Palestinian Authority Travel Document,B1,15
+Palestinian Authority Travel Document,B1/B2,629
+Palestinian Authority Travel Document,F1,12
+Palestinian Authority Travel Document,F2,1
+Palestinian Authority Travel Document,G4,5
+Palestinian Authority Travel Document,H1B,2
+Palestinian Authority Travel Document,H4,2
+Palestinian Authority Travel Document,J1,21
+Palestinian Authority Travel Document,K1,1
+Panama,A2,39
+Panama,B1,22
+Panama,B2,16
+Panama,C1,1
+Panama,C1/D,109
+Panama,C3,1
+Panama,F1,21
+Panama,F2,3
+Panama,G1,1
+Panama,G2,1
+Panama,G4,6
+Panama,H1B,4
+Panama,H2A,6
+Panama,I,1
+Panama,J1,14
+Panama,J2,2
+Panama,K1,4
+Panama,K2,2
+Panama,L1,1
+Panama,L2,2
+Panama,M1,15
+Panama,O1,2
+Panama,P1,2
+Panama,P4,1
+Panama,R2,1
+Papua New Guinea,A2,5
+Papua New Guinea,B1,2
+Papua New Guinea,B1/B2,48
+Papua New Guinea,C1,2
+Papua New Guinea,G2,9
+Papua New Guinea,G4,1
+Papua New Guinea,J1,1
+Paraguay,A2,25
+Paraguay,B1,17
+Paraguay,C1,4
+Paraguay,C1/D,1
+Paraguay,C3,4
+Paraguay,F1,10
+Paraguay,G2,6
+Paraguay,G4,3
+Paraguay,J1,8
+Paraguay,K1,3
+Paraguay,L1,1
+Paraguay,P4,4
+Paraguay,R1,2
+Peru,A1,4
+Peru,A2,58
+Peru,A3,1
+Peru,B1,116
+Peru,C1,17
+Peru,C1/D,141
+Peru,C3,9
+Peru,E2,1
+Peru,F1,95
+Peru,F2,2
+Peru,G1,6
+Peru,G2,2
+Peru,G4,20
+Peru,G5,6
+Peru,H1B,11
+Peru,H2A,112
+Peru,H2B,6
+Peru,H4,3
+Peru,I,2
+Peru,J1,69
+Peru,J2,2
+Peru,K1,37
+Peru,K2,6
+Peru,L1,8
+Peru,L2,8
+Peru,M1,7
+Peru,O1,1
+Peru,P3,11
+Peru,R1,1
+Peru,TD,1
+Peru,U1,2
+Peru,U2,2
+Peru,U3,11
+Philippines,A1,12
+Philippines,A2,74
+Philippines,A3,20
+Philippines,B1,500
+Philippines,B2,9
+Philippines,C1,70
+Philippines,C3,11
+Philippines,CW1,206
+Philippines,CW2,34
+Philippines,E2,9
+Philippines,F1,51
+Philippines,F2,1
+Philippines,G1,18
+Philippines,G2,19
+Philippines,G4,36
+Philippines,G5,7
+Philippines,H1B,98
+Philippines,H2A,7
+Philippines,H2B,38
+Philippines,H3,10
+Philippines,H4,61
+Philippines,I,2
+Philippines,J1,696
+Philippines,J2,38
+Philippines,K1,501
+Philippines,K2,139
+Philippines,L1,58
+Philippines,L2,43
+Philippines,M1,3
+Philippines,O1,7
+Philippines,O2,11
+Philippines,O3,1
+Philippines,P1,10
+Philippines,R1,15
+Philippines,R2,5
+Philippines,T2,2
+Philippines,T3,3
+Philippines,T6,3
+Philippines,TD,1
+Poland,A1,1
+Poland,A2,46
+Poland,B1,113
+Poland,B2,1
+Poland,C1,4
+Poland,C1/D,202
+Poland,E2,9
+Poland,F1,33
+Poland,F2,1
+Poland,G1,2
+Poland,G2,9
+Poland,G3,1
+Poland,G4,8
+Poland,H1B,10
+Poland,H2A,3
+Poland,H2B,26
+Poland,H4,7
+Poland,I,12
+Poland,J2,22
+Poland,K1,8
+Poland,L1,61
+Poland,L2,36
+Poland,M1,1
+Poland,NATO2,48
+Poland,NATO4,1
+Poland,NATO6,12
+Poland,O1,13
+Poland,O2,3
+Poland,O3,1
+Poland,P1,20
+Poland,P3,2
+Poland,R1,10
+Portugal,A1,4
+Portugal,A2,3
+Portugal,B1,2
+Portugal,B1/B2,368
+Portugal,C1/D,311
+Portugal,E2,2
+Portugal,F1,19
+Portugal,F2,2
+Portugal,G1,4
+Portugal,G2,6
+Portugal,G4,4
+Portugal,G5,1
+Portugal,H1B,2
+Portugal,H4,3
+Portugal,I,3
+Portugal,J1,31
+Portugal,J2,1
+Portugal,K1,5
+Portugal,L1,21
+Portugal,L2,22
+Portugal,M1,1
+Portugal,NATO2,14
+Portugal,O1,6
+Portugal,O2,4
+Portugal,O3,1
+Portugal,P1,1
+Portugal,P3,16
+Portugal,R1,1
+Qatar,A1,13
+Qatar,A2,125
+Qatar,B1/B2,533
+Qatar,C1/D,4
+Qatar,F1,22
+Qatar,G1,3
+Qatar,G2,7
+Qatar,J1,5
+Qatar,J2,2
+Qatar,L1,1
+Qatar,L2,4
+Qatar,M1,3
+Republic of Palau,G2,1
+Romania,A1,8
+Romania,A2,24
+Romania,B1,53
+Romania,C1,3
+Romania,C1/D,227
+Romania,E2,5
+Romania,F1,20
+Romania,G1,1
+Romania,G2,28
+Romania,G3,1
+Romania,G4,3
+Romania,H1B,8
+Romania,H2A,15
+Romania,H2B,214
+Romania,H4,9
+Romania,I,5
+Romania,J2,9
+Romania,K1,17
+Romania,K2,2
+Romania,L1,23
+Romania,L2,11
+Romania,M1,2
+Romania,NATO2,72
+Romania,O1,2
+Romania,O2,1
+Romania,O3,1
+Romania,P3,7
+Romania,P4,2
+Romania,R1,3
+Russia,A1,10
+Russia,A2,72
+Russia,B1,57
+Russia,B2,152
+Russia,C1,1
+Russia,E2,3
+Russia,F1,259
+Russia,F2,11
+Russia,G1,26
+Russia,G2,84
+Russia,G4,81
+Russia,H1B,26
+Russia,H4,38
+Russia,I,21
+Russia,J2,23
+Russia,K1,45
+Russia,K2,11
+Russia,L1,69
+Russia,L2,69
+Russia,M1,3
+Russia,O1,32
+Russia,O2,8
+Russia,O3,12
+Russia,P1,54
+Russia,P3,46
+Russia,P4,6
+Russia,R1,3
+Russia,R2,1
+Russia,TD,1
+Rwanda,A1,3
+Rwanda,A2,42
+Rwanda,B1/B2,264
+Rwanda,C1,3
+Rwanda,C1/D,2
+Rwanda,F1,21
+Rwanda,F2,1
+Rwanda,G2,2
+Rwanda,G4,7
+Rwanda,H1B,1
+Rwanda,J1,21
+Rwanda,K1,2
+Samoa,A2,3
+Samoa,B1,2
+Samoa,B1/B2,163
+Samoa,C1/D,19
+Samoa,G2,2
+Samoa,J1,10
+Samoa,R1,2
+Sao Tome and Principe,A1,1
+Sao Tome and Principe,A2,3
+Sao Tome and Principe,B1/B2,1
+Sao Tome and Principe,G1,1
+Sao Tome and Principe,G2,1
+Sao Tome and Principe,J1,2
+Saudi Arabia,A1,43
+Saudi Arabia,A2,501
+Saudi Arabia,A3,4
+Saudi Arabia,B1,8
+Saudi Arabia,D,74
+Saudi Arabia,F1,832
+Saudi Arabia,F2,227
+Saudi Arabia,G1,14
+Saudi Arabia,G2,20
+Saudi Arabia,G4,6
+Saudi Arabia,H1B,5
+Saudi Arabia,H3,1
+Saudi Arabia,I,7
+Saudi Arabia,J1,41
+Saudi Arabia,J2,33
+Saudi Arabia,K1,1
+Saudi Arabia,L1,12
+Saudi Arabia,L2,23
+Saudi Arabia,M1,30
+Saudi Arabia,M2,4
+Saudi Arabia,O1,1
+Senegal,A2,19
+Senegal,B1,1
+Senegal,B1/B2,440
+Senegal,D,2
+Senegal,F1,9
+Senegal,G1,1
+Senegal,G2,19
+Senegal,G4,33
+Senegal,H1B,1
+Senegal,I,3
+Senegal,J1,6
+Senegal,J2,1
+Senegal,K1,8
+Senegal,L2,2
+Senegal,O1,2
+Senegal,O2,1
+Senegal,P3,4
+Serbia,A2,5
+Serbia,B1,21
+Serbia,B1/B2,985
+Serbia,B2,6
+Serbia,C1,2
+Serbia,C1/D,172
+Serbia,E2,3
+Serbia,E3D,1
+Serbia,F1,11
+Serbia,F2,3
+Serbia,G2,2
+Serbia,G4,5
+Serbia,H1B,6
+Serbia,H2B,374
+Serbia,I,2
+Serbia,J1,595
+Serbia,K1,3
+Serbia,K2,1
+Serbia,L1,8
+Serbia,L2,6
+Serbia,O1,8
+Serbia,O3,4
+Serbia,P3,1
+Seychelles,A2,4
+Seychelles,B1/B2,12
+Seychelles,C1/D,2
+Seychelles,G2,3
+Seychelles,J1,2
+Sierra Leone,A2,13
+Sierra Leone,B1,1
+Sierra Leone,B1/B2,127
+Sierra Leone,B2,4
+Sierra Leone,C1,2
+Sierra Leone,C1/D,1
+Sierra Leone,F1,2
+Sierra Leone,G2,3
+Sierra Leone,G4,1
+Sierra Leone,K1,2
+Singapore,A1,2
+Singapore,A2,116
+Singapore,B1,2
+Singapore,B1/B2,76
+Singapore,B2,1
+Singapore,C1/D,135
+Singapore,E2,4
+Singapore,E3D,1
+Singapore,F1,264
+Singapore,F2,1
+Singapore,G1,3
+Singapore,G2,13
+Singapore,G4,1
+Singapore,H1B,22
+Singapore,H1B1,43
+Singapore,H3,1
+Singapore,H4,16
+Singapore,J1,89
+Singapore,J2,10
+Singapore,K1,6
+Singapore,K2,1
+Singapore,L1,31
+Singapore,L2,18
+Singapore,M1,2
+Singapore,O1,4
+Singapore,R1,1
+Slovakia,A1,1
+Slovakia,A2,29
+Slovakia,B1,3
+Slovakia,B1/B2,43
+Slovakia,C1/D,7
+Slovakia,E2,1
+Slovakia,F1,6
+Slovakia,G1,2
+Slovakia,G2,1
+Slovakia,G4,1
+Slovakia,H1B,2
+Slovakia,H2B,4
+Slovakia,I,7
+Slovakia,J1,996
+Slovakia,J2,3
+Slovakia,L1,14
+Slovakia,L2,8
+Slovakia,NATO2,1
+Slovakia,O1,2
+Slovakia,P1,1
+Slovakia,P3,2
+Slovakia,R1,2
+Slovenia,B1,22
+Slovenia,B1/B2,31
+Slovenia,C1/D,10
+Slovenia,F1,4
+Slovenia,G2,8
+Slovenia,G3,1
+Slovenia,H1B,1
+Slovenia,J1,39
+Slovenia,K1,1
+Slovenia,K2,1
+Slovenia,L1,2
+Slovenia,L2,1
+Slovenia,M1,2
+Slovenia,M2,1
+Slovenia,NATO2,10
+Slovenia,P1,1
+Solomon Islands,A2,3
+Solomon Islands,B1/B2,33
+Solomon Islands,C1,1
+Solomon Islands,G1,1
+Solomon Islands,G2,1
+Solomon Islands,J1,2
+Solomon Islands,R1,1
+Somalia,A1,2
+Somalia,A2,2
+Somalia,B1/B2,5
+Somalia,G2,6
+Somalia,G4,4
+South Africa,A1,7
+South Africa,A2,30
+South Africa,A3,2
+South Africa,B1,43
+South Africa,B2,30
+South Africa,C1,11
+South Africa,C1/D,240
+South Africa,E2,1
+South Africa,E3D,4
+South Africa,F1,30
+South Africa,F2,8
+South Africa,G2,6
+South Africa,G4,8
+South Africa,H1B,14
+South Africa,H2B,167
+South Africa,H4,31
+South Africa,I,5
+South Africa,J1,405
+South Africa,J2,6
+South Africa,K1,22
+South Africa,K2,1
+South Africa,L1,78
+South Africa,L2,107
+South Africa,M1,1
+South Africa,M2,1
+South Africa,O1,8
+South Africa,O2,1
+South Africa,O3,7
+South Africa,P1,3
+South Africa,P3,24
+South Africa,P4,3
+South Africa,Q1,3
+South Sudan,A1,5
+South Sudan,A2,3
+South Sudan,B1/B2,24
+South Sudan,F1,3
+South Sudan,G1,1
+South Sudan,G2,1
+South Sudan,J1,1
+South Sudan,K1,5
+South Sudan,M1,1
+South Sudan,O1,1
+Spain,A1,5
+Spain,A2,8
+Spain,B1,13
+Spain,B1/B2,481
+Spain,C1,2
+Spain,C1/D,178
+Spain,C3,1
+Spain,E1,14
+Spain,E2,87
+Spain,E3D,1
+Spain,F1,98
+Spain,F2,6
+Spain,G1,2
+Spain,G2,2
+Spain,G3,1
+Spain,G4,49
+Spain,H1B,31
+Spain,H4,5
+Spain,I,24
+Spain,J1,573
+Spain,J2,33
+Spain,K1,15
+Spain,K2,1
+Spain,L1,98
+Spain,L2,87
+Spain,M1,2
+Spain,NATO2,46
+Spain,NATO4,1
+Spain,O1,38
+Spain,O2,17
+Spain,O3,8
+Spain,P1,23
+Spain,P4,1
+Sri Lanka,A2,15
+Sri Lanka,A3,1
+Sri Lanka,B1,7
+Sri Lanka,B1/B2,734
+Sri Lanka,C1,3
+Sri Lanka,C1/D,72
+Sri Lanka,F1,19
+Sri Lanka,F2,1
+Sri Lanka,G1,1
+Sri Lanka,G2,21
+Sri Lanka,G4,15
+Sri Lanka,G5,1
+Sri Lanka,H1B,8
+Sri Lanka,H3,1
+Sri Lanka,H4,4
+Sri Lanka,I,2
+Sri Lanka,J1,8
+Sri Lanka,J2,2
+Sri Lanka,K1,3
+Sri Lanka,L1,5
+Sri Lanka,L2,3
+Sri Lanka,M1,1
+Sri Lanka,R1,2
+St Lucia,A2,7
+St Lucia,B1,1
+St Lucia,B1/B2,339
+St Lucia,C1/D,21
+St Lucia,C3,1
+St Lucia,F1,2
+St Lucia,H1B,1
+St Lucia,J1,2
+St Lucia,K1,1
+St Lucia,P3,1
+St. Kitts and Nevis,A2,8
+St. Kitts and Nevis,B1/B2,247
+St. Kitts and Nevis,K1,1
+St. Kitts and Nevis,R1,1
+St. Vincent and The Grenadines,A2,9
+St. Vincent and The Grenadines,B1,4
+St. Vincent and The Grenadines,B1/B2,221
+St. Vincent and The Grenadines,C1,1
+St. Vincent and The Grenadines,C1/D,12
+St. Vincent and The Grenadines,C3,2
+St. Vincent and The Grenadines,F1,1
+St. Vincent and The Grenadines,H1B,1
+Sudan,A1,7
+Sudan,A2,1
+Sudan,A3,3
+Sudan,B1,26
+Sudan,B1/B2,317
+Sudan,B2,1
+Sudan,D,1
+Sudan,F1,7
+Sudan,F2,2
+Sudan,G1,12
+Sudan,G2,12
+Sudan,G4,9
+Sudan,H4,4
+Sudan,I,1
+Sudan,J1,4
+Sudan,J2,4
+Sudan,K1,3
+Sudan,O1,2
+Sudan,O3,1
+Suriname,A1,2
+Suriname,A2,4
+Suriname,B1/B2,676
+Suriname,C3,5
+Suriname,G1,2
+Suriname,G2,5
+Suriname,J1,1
+Sweden,A1,4
+Sweden,A2,103
+Sweden,B1,6
+Sweden,B1/B2,424
+Sweden,C1,1
+Sweden,C1/D,38
+Sweden,E1,2
+Sweden,E2,39
+Sweden,E3D,2
+Sweden,F1,76
+Sweden,F2,1
+Sweden,G1,1
+Sweden,G2,20
+Sweden,G4,10
+Sweden,H1B,12
+Sweden,H4,5
+Sweden,I,7
+Sweden,J1,115
+Sweden,J2,16
+Sweden,K1,11
+Sweden,L1,46
+Sweden,L2,37
+Sweden,M1,2
+Sweden,O1,18
+Sweden,O2,28
+Sweden,O3,1
+Sweden,P1,16
+Sweden,P3,5
+Switzerland,A1,5
+Switzerland,A2,17
+Switzerland,B1,10
+Switzerland,B1/B2,264
+Switzerland,B2,1
+Switzerland,C1/D,58
+Switzerland,C3,1
+Switzerland,E2,16
+Switzerland,F1,159
+Switzerland,F2,1
+Switzerland,G1,3
+Switzerland,G4,22
+Switzerland,H1B,2
+Switzerland,H2A,2
+Switzerland,H3,2
+Switzerland,I,8
+Switzerland,J1,86
+Switzerland,J2,13
+Switzerland,L1,30
+Switzerland,L2,22
+Switzerland,M1,4
+Switzerland,O1,9
+Switzerland,O2,4
+Switzerland,O3,3
+Switzerland,P1,9
+Switzerland,R1,1
+Syria,A2,1
+Syria,B1,1
+Syria,B1/B2,112
+Syria,C1/D,1
+Syria,G1,7
+Syria,G4,13
+Syria,I,1
+Syria,J1,1
+Syria,J2,1
+Syria,L1,1
+Tajikistan,A2,13
+Tajikistan,B1/B2,128
+Tajikistan,D,1
+Tajikistan,F1,3
+Tajikistan,G1,2
+Tajikistan,G4,7
+Tajikistan,H1B,1
+Tajikistan,H3,1
+Tajikistan,H4,1
+Tajikistan,I,1
+Tajikistan,J1,20
+Tajikistan,M1,1
+Tanzania,A1,3
+Tanzania,A2,11
+Tanzania,B1,15
+Tanzania,B1/B2,487
+Tanzania,C1/D,3
+Tanzania,C3,1
+Tanzania,F1,18
+Tanzania,F2,3
+Tanzania,G2,21
+Tanzania,G4,5
+Tanzania,H4,1
+Tanzania,I,1
+Tanzania,J1,16
+Tanzania,L1,1
+Tanzania,M1,2
+Thailand,A1,5
+Thailand,A2,59
+Thailand,A3,1
+Thailand,B1,42
+Thailand,B2,32
+Thailand,C1,7
+Thailand,C1/D,130
+Thailand,C3,1
+Thailand,CW1,3
+Thailand,E1,2
+Thailand,E2,27
+Thailand,F1,103
+Thailand,G2,20
+Thailand,G4,2
+Thailand,H1B,7
+Thailand,H2A,12
+Thailand,H2B,1
+Thailand,H4,3
+Thailand,I,4
+Thailand,J2,9
+Thailand,K1,87
+Thailand,K2,12
+Thailand,L1,9
+Thailand,L2,4
+Thailand,M1,3
+Thailand,O1,3
+Thailand,O2,1
+Thailand,O3,1
+Thailand,R1,7
+Thailand,T2,1
+Thailand,T3,3
+Timor-Leste,B1/B2,12
+Timor-Leste,G2,2
+Timor-Leste,J1,3
+Togo,A1,6
+Togo,A2,6
+Togo,B1/B2,157
+Togo,B2,7
+Togo,C1,5
+Togo,D,4
+Togo,F1,1
+Togo,G1,3
+Togo,G4,1
+Togo,J1,2
+Togo,J2,1
+Togo,K1,4
+Tonga,A2,4
+Tonga,B1/B2,107
+Tonga,C1/D,1
+Tonga,C3,1
+Tonga,G1,2
+Tonga,G4,2
+Tonga,J1,11
+Tonga,K1,4
+Tonga,R1,1
+Trinidad and Tobago,A1,3
+Trinidad and Tobago,A2,16
+Trinidad and Tobago,B1,8
+Trinidad and Tobago,C1,1
+Trinidad and Tobago,C1/D,30
+Trinidad and Tobago,C3,3
+Trinidad and Tobago,F1,21
+Trinidad and Tobago,G4,12
+Trinidad and Tobago,H1B,1
+Trinidad and Tobago,I,1
+Trinidad and Tobago,J1,9
+Trinidad and Tobago,K1,4
+Trinidad and Tobago,L1,10
+Trinidad and Tobago,L2,7
+Trinidad and Tobago,M1,4
+Trinidad and Tobago,O1,1
+Trinidad and Tobago,P1,15
+Trinidad and Tobago,P3,14
+Trinidad and Tobago,R1,2
+Tunisia,A1,6
+Tunisia,A2,50
+Tunisia,B1,1
+Tunisia,B1/B2,407
+Tunisia,B2,1
+Tunisia,C1/D,30
+Tunisia,F1,7
+Tunisia,F2,2
+Tunisia,G2,2
+Tunisia,G4,8
+Tunisia,H1B,1
+Tunisia,H4,1
+Tunisia,J1,20
+Tunisia,K1,1
+Tunisia,L1,2
+Tunisia,L2,5
+Tunisia,P3,1
+Turkey,A1,5
+Turkey,A2,115
+Turkey,B1,9
+Turkey,B2,29
+Turkey,C1,2
+Turkey,C1/D,370
+Turkey,E1,10
+Turkey,E2,40
+Turkey,F1,222
+Turkey,F2,11
+Turkey,G2,18
+Turkey,G4,7
+Turkey,H1B,26
+Turkey,H2B,6
+Turkey,H4,13
+Turkey,I,10
+Turkey,J2,31
+Turkey,K1,10
+Turkey,L1,24
+Turkey,L2,16
+Turkey,M1,7
+Turkey,NATO2,70
+Turkey,NATO4,4
+Turkey,NATO6,3
+Turkey,O1,9
+Turkey,O2,2
+Turkey,O3,2
+Turkey,P1,2
+Turkey,T2,1
+Turkey,TD,1
+Turkmenistan,A1,2
+Turkmenistan,A2,10
+Turkmenistan,B1/B2,56
+Turkmenistan,F1,8
+Turkmenistan,F2,3
+Turkmenistan,G1,1
+Turkmenistan,G2,4
+Turkmenistan,J1,23
+Turks and Caicos Islands,B1/B2,19
+Tuvalu,A1,1
+Tuvalu,C3,1
+Tuvalu,J1,1
+Uganda,A1,3
+Uganda,A2,59
+Uganda,B1/B2,701
+Uganda,C1,2
+Uganda,D,3
+Uganda,F1,21
+Uganda,G1,1
+Uganda,G2,12
+Uganda,G4,25
+Uganda,H1B,1
+Uganda,H4,1
+Uganda,I,7
+Uganda,J1,29
+Uganda,K1,8
+Uganda,K2,1
+Uganda,L1,1
+Uganda,L2,3
+Uganda,M1,2
+Uganda,O1,3
+Uganda,O2,1
+Uganda,O3,2
+Uganda,P3,17
+Uganda,R1,4
+Uganda,R2,4
+Ukraine,A1,5
+Ukraine,A2,74
+Ukraine,B1,114
+Ukraine,B2,17
+Ukraine,C1,2
+Ukraine,E2,2
+Ukraine,F1,20
+Ukraine,F2,2
+Ukraine,G2,12
+Ukraine,G4,12
+Ukraine,H1B,13
+Ukraine,H2A,87
+Ukraine,H2B,75
+Ukraine,H4,16
+Ukraine,I,2
+Ukraine,J1,403
+Ukraine,J2,4
+Ukraine,K1,80
+Ukraine,K2,26
+Ukraine,L1,48
+Ukraine,L2,57
+Ukraine,M2,2
+Ukraine,O1,9
+Ukraine,O2,1
+Ukraine,O3,10
+Ukraine,P1,24
+Ukraine,P3,32
+Ukraine,R1,2
+Ukraine,R2,3
+Ukraine,TD,1
+United Arab Emirates,A1,8
+United Arab Emirates,A2,91
+United Arab Emirates,D,9
+United Arab Emirates,F1,9
+United Arab Emirates,F2,1
+United Arab Emirates,G4,1
+United Arab Emirates,J1,9
+United Arab Emirates,J2,2
+United Arab Emirates,O1,1
+Uruguay,A2,10
+Uruguay,B1,1
+Uruguay,C1,1
+Uruguay,C1/D,2
+Uruguay,E2,1
+Uruguay,F1,5
+Uruguay,F2,1
+Uruguay,G4,6
+Uruguay,G5,1
+Uruguay,H1B,4
+Uruguay,H2A,2
+Uruguay,H4,2
+Uruguay,I,3
+Uruguay,J1,7
+Uruguay,J2,1
+Uruguay,K1,3
+Uruguay,K2,1
+Uruguay,L1,9
+Uruguay,L2,11
+Uruguay,M1,1
+Uruguay,O1,3
+Uruguay,O3,4
+Uruguay,P1,2
+Uzbekistan,A2,22
+Uzbekistan,B1,6
+Uzbekistan,B1/B2,513
+Uzbekistan,C1/D,44
+Uzbekistan,F1,11
+Uzbekistan,F2,1
+Uzbekistan,G2,22
+Uzbekistan,G4,10
+Uzbekistan,H1B,1
+Uzbekistan,H4,2
+Uzbekistan,I,1
+Uzbekistan,J1,241
+Uzbekistan,K1,5
+Uzbekistan,K2,1
+Uzbekistan,L1,1
+Uzbekistan,P1,1
+Vanuatu,A2,5
+Vanuatu,B1/B2,3
+Vanuatu,J1,1
+Vatican City,A2,3
+Venezuela,A1,3
+Venezuela,B1,2
+Venezuela,B1/B2,984
+Venezuela,B2,1
+Venezuela,C1/D,32
+Venezuela,C2,9
+Venezuela,D,1
+Venezuela,E2,7
+Venezuela,F1,35
+Venezuela,F2,6
+Venezuela,G3,7
+Venezuela,G4,6
+Venezuela,H1B,21
+Venezuela,H4,17
+Venezuela,J1,21
+Venezuela,J2,2
+Venezuela,K1,24
+Venezuela,K2,2
+Venezuela,K3,1
+Venezuela,L1,27
+Venezuela,L2,34
+Venezuela,M1,1
+Venezuela,O1,12
+Venezuela,O2,4
+Venezuela,O3,9
+Venezuela,P1,27
+Venezuela,P4,13
+Venezuela,R1,3
+Venezuela,R2,1
+Venezuela,TD,1
+Vietnam,A1,32
+Vietnam,A2,78
+Vietnam,B1,13
+Vietnam,B2,384
+Vietnam,C1,18
+Vietnam,C1/D,210
+Vietnam,C3,3
+Vietnam,E3D,1
+Vietnam,F1,219
+Vietnam,F2,14
+Vietnam,G1,15
+Vietnam,G2,17
+Vietnam,G4,25
+Vietnam,H1B,29
+Vietnam,H4,8
+Vietnam,J1,79
+Vietnam,J2,4
+Vietnam,K1,190
+Vietnam,K2,48
+Vietnam,L1,14
+Vietnam,L2,21
+Vietnam,M1,2
+Vietnam,O1,3
+Vietnam,O2,1
+Vietnam,O3,1
+Vietnam,P1,1
+Vietnam,P3,5
+Vietnam,R1,19
+Yemen,A1,1
+Yemen,A2,4
+Yemen,A3,2
+Yemen,B1,1
+Yemen,B1/B2,51
+Yemen,C1/D,2
+Yemen,C2,1
+Yemen,F1,44
+Yemen,F2,2
+Yemen,G2,8
+Yemen,G4,8
+Yemen,H4,1
+Yemen,J1,1
+Yemen,K1,1
+Yemen,M1,1
+Zambia,A1,2
+Zambia,A2,20
+Zambia,B1/B2,208
+Zambia,C1,1
+Zambia,C1/D,2
+Zambia,G1,1
+Zambia,G2,11
+Zambia,G4,18
+Zambia,H1B,1
+Zambia,J1,10
+Zambia,L1,3
+Zambia,L2,6
+Zimbabwe,A1,4
+Zimbabwe,B1/B2,508
+Zimbabwe,B2,1
+Zimbabwe,C1,21
+Zimbabwe,C3,2
+Zimbabwe,D,40
+Zimbabwe,F1,6
+Zimbabwe,G2,22
+Zimbabwe,G4,23
+Zimbabwe,H1B,4
+Zimbabwe,H2A,2
+Zimbabwe,I,2
+Zimbabwe,J1,22
+Zimbabwe,J2,5
+Zimbabwe,K1,3
+Zimbabwe,L1,3
+Zimbabwe,P1,1
+Zimbabwe,Q1,2
+Zimbabwe,R1,3
