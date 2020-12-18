@@ -1,38 +1,48 @@
 {% extends 'base.html' %}
 
 {% block head %}
-<title> Task Master</title>
+<title> <h2> Visa Statistics </h2> </title>
 {% endblock %}
 
 {% block body %}
-<div class = 'content'>
-    <h1> Task Master</h1>
-    {% if tasks| length < 1 %}
-    <h4> There are not tasks. Create one below</h4>
-    {% else %}
-
-    <table>
-        <tr>
-            <th> Task</th>
-            <th> Added</th>
-            <th> Actions</th>
-        </tr>
-        {% for task in tasks %}
-            <tr>
-                <td>{{task.content}}</td>
-                <td>{{task.date_created.date()}}</td>
-                <td>
-                    <a href = "/delete/{{task.id}}"> Delete</a>
-                    <br>
-                    <a href = "/update/{{task.id}}"> Update</a>
-                </td>
-            </tr>
-        {% endfor %}
-    </table>
-    {% endif %}
+<hr>
     <form action = "/" method = "POST">
-        <input type = "text" name = "content" id = "content">
-        <input type = "submit" value = "Add Task" >
+        <label for = "years">
+            Year:
+        </label>
+        <select id = "years" name = "years">
+            <option value="2017">2017</option>
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2020">2020</option>
+        </select>
+         <label for = "months">
+            Month:
+        </label>
+        <select id = "months" name = "months">
+            <option value="january">Jan</option>
+            <option value="february">Feb</option>
+            <option value="march">Mar</option>
+            <option value="april">Apr</option>
+            <option value="may">May</option>
+            <option value="june">Jun</option>
+            <option value="july">Jul</option>
+            <option value="august">Aug</option>
+            <option value="september">Sep</option>
+            <option value="october">Oct</option>
+            <option value="november">Nov</option>
+            <option value="december">Dec</option>
+        </select>
+         <label for = "visa_type">
+            Visa_type:
+        </label>
+        <select id = "visa_type" name = "visa_type">
+            <option value="B1">B1</option>
+            <option value="B2">B2</option>
+            <option value="F1">F1</option>
+        </select>
+        <input type = "submit" value = "Filter" >
     </form>
-</div>
+
+
 {% endblock %}
