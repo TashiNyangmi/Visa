@@ -9,9 +9,8 @@ SQLAlchemy==1.3.21
 Werkzeug==1.0.1
 
 datetime~=4.3
-pip~=20.1.1
-zlib~=1.2.11
-wheel~=0.34.2
+
+
 beautifulsoup4==4.9.1
 
 numpy==1.18.5
