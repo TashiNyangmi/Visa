@@ -13,4 +13,4 @@ def lists():
     months.insert(0, 'all')
     visa_types.insert(0, 'all')
 
-    return countries, years, months, visa_types
+    return countries, years, months, visa_types  # returns lists

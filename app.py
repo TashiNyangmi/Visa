@@ -6,6 +6,7 @@ app = Flask(__name__)
 @app.route('/', methods=['POST', 'GET'])
 def index():
     # importing lists of options for dropdown(select) elements of the form
+    global titles, tables
     from lists_for_app import lists
     countries, years, months, visa_types = lists()
 
@@ -18,7 +19,9 @@ def index():
 
         from filter_for_app import visa_filter
         try:
-            result = visa_filter(returned_country, returned_year, returned_month, returned_visa_type)
+            result = visa_filter(returned_country, returned_year, returned_month, returned_visa_type) # returns a DF
+            tables = [result.to_html(classes='data')]       # converting DF to render using jinja2
+            titles = result.columns.values                  # array of column names
         except:
             result = 0
 
@@ -32,7 +35,8 @@ def index():
                                    years=years,
                                    months=months,
                                    visa_types=visa_types,
-                                   result=result)
+                                   tables=tables,                # for table
+                                   titles=titles)                # for table
         except:
             redirect('/')
     else:  # this is for request.method = 'GET' i.e. ~ loading the homepage for the first time

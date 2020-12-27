@@ -14,7 +14,7 @@
             {% if returned_country %}
             <option value = {{returned_country}}> {{returned_country}}</option>
             {% endif %}
-            <option value = 'nepal'> nepal</option>
+            <option value = 'Nepal'> Nepal</option>
             {% for country in countries %}
             <option value= {{country}}>{{country}}</option>
             {% endfor %}
@@ -61,7 +61,12 @@
 <hr>
 {% if returned_visa_type %}
 <p> Showing results for {{returned_country }} {{returned_visa_type}} {{returned_month}} {{returned_year}} </p>
-{{result}}
+
+{% for table in tables %}
+            {{titles[loop.index]}}
+            {{ table|safe }}
+{% endfor %}
+
 {% endif %}
 
 {% endblock %}
