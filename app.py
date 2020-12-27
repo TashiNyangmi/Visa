@@ -1,11 +1,4 @@
 from flask import Flask, render_template, url_for, request, redirect
-from flask_sqlalchemy import SQLAlchemy
-from datetime import datetime
-
-
-# from filter_for_app import visa_filter
-
-
 
 app = Flask(__name__)
 
@@ -34,7 +27,10 @@ def index():
         returned_visa_type = request.form['visa_type']
 
         from filter_for_app import visa_filter
-        result = visa_filter(returned_country, returned_year, returned_month, returned_visa_type)
+        try:
+            result = visa_filter(returned_country, returned_year, returned_month, returned_visa_type)
+        except:
+            result = 0
 
         try:
             return render_template('index.html',
