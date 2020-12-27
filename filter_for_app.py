@@ -14,9 +14,13 @@ def visa_filter(returned_country, returned_year, returned_month, returned_visa_t
     master_df.set_index('date', inplace=True)  # assign column:date as index
 
     # - actual filtering
-    result = master_df[(master_df['country'] == returned_country) &
-                       (master_df['visa_type'] == returned_visa_type) &
-                       (master_df['month'] == returned_month) &
-                       (master_df['year'] == int(returned_year))]
-    result = result['number'].values[0]
+
+    if returned_country == 'all':
+        result = master_df.head()  # returning a DataFrame
+    else:
+        result = master_df[(master_df['country'] == returned_country) &
+                           (master_df['visa_type'] == returned_visa_type) &
+                           (master_df['month'] == returned_month) &
+                           (master_df['year'] == int(returned_year))]
+        result = result['number'].values[0]
     return result

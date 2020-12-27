@@ -11,6 +11,10 @@
             country:
         </label>
         <select id = "country" name = "country">
+            {% if returned_country %}
+            <option value = {{returned_country}}> {{returned_country}}</option>
+            {% endif %}
+            <option value = 'nepal'> nepal</option>
             {% for country in countries %}
             <option value= {{country}}>{{country}}</option>
             {% endfor %}
@@ -20,6 +24,9 @@
             Year:
         </label>
         <select id = "year" name = "year">
+            {% if returned_year %}
+            <option value = {{returned_year}}> {{returned_year}}</option>
+            {% endif %}
             {% for year in years %}
             <option value= {{year}}>{{year}}</option>
             {% endfor %}
@@ -29,14 +36,21 @@
             Month:
         </label>
         <select id = "month" name = "month" >
+            {% if returned_month %}
+            <option value = {{returned_month}}> {{returned_month}}</option>
+            {% endif %}
             {% for month in months %}
             <option value= {{month}}>{{month}}</option>
             {% endfor %}
         </select>
+
          <label for = "visa_type">
             Visa_type:
         </label>
         <select id = "visa_type" name = "visa_type">
+            {% if returned_visa_type %}
+            <option value = {{returned_visa_type}}> {{returned_visa_type}}</option>
+            {% endif %}
             {% for visa_type in visa_types %}
             <option value= {{visa_type}}>{{visa_type}}</option>
             {% endfor %}
@@ -44,10 +58,10 @@
         <input type = "submit" value = "Filter" >
     </form>
 
+<hr>
 {% if returned_visa_type %}
 <p> Showing results for {{returned_country }} {{returned_visa_type}} {{returned_month}} {{returned_year}} </p>
-<p> {{result}} </p>
-
+{{result}}
 {% endif %}
 
 {% endblock %}
