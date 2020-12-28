@@ -7,14 +7,12 @@ def pdf_to_csv(input_file, output_file):
         print(f'{input_file} not found')
     return
 
-
 # ----------------------------------------------------------------------------------
-
-
-def pdf_to_json(input_file, output_file):
-    import tabula
-    import json
-    tabula.convert_into(input_file, output_file, output_format="json", pages="all")
+#
+# def pdf_to_json(input_file, output_file):
+#     import tabula
+#     import json
+#     tabula.convert_into(input_file, output_file, output_format="json", pages="all")
 
 # stores all tables in the pdf in a list as DataFrames
 # tables = tabula.read_pdf(input_file, pages="all", multiple_tables=True)

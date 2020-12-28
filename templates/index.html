@@ -60,12 +60,10 @@
 
 <hr>
 {% if returned_visa_type %}
-<p> Showing results for {{returned_country }} {{returned_visa_type}} {{returned_month}} {{returned_year}} </p>
-
-{% for table in tables %}
+    {% for table in tables %}
             {{titles[loop.index]}}
             {{ table|safe }}
-{% endfor %}
+    {% endfor %}
 
 {% endif %}
 
