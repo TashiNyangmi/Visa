@@ -24,6 +24,7 @@ def pdf_downloader(URL, location):
         suffix = '%20-%20NIV%20Issuances%20by%20Nationality%20and%20Visa%20Class'
         filename = filename.replace(suffix, '')
         filename = filename.replace('%20', '_')  # replacing %20 with _ (e.g. april%202019 becomes april_2019)
+        filename = filename.lower()
 
         with open(filename, 'wb') as f:
             f.write(requests.get(urljoin(url, link['href'])).content)
