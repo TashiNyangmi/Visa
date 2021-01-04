@@ -1,4 +1,4 @@
-from pdf_to_csv import pdf_to_csv  # function
+from pdf_to_csv import to_csv  # function
 from csv_clean import csv_clean  # function
 import pandas as pd
 

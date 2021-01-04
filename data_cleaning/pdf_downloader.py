@@ -29,7 +29,7 @@ def pdf_downloader(URL, location):
         with open(filename, 'wb') as f:
             f.write(requests.get(urljoin(url, link['href'])).content)
 
-        print(f'{filename.replace(location, "")} is downloaded...')
+        print(f'{filename} is downloaded...')
     print("All files downloaded")
     return
 
