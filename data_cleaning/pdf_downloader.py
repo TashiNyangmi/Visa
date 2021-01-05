@@ -1,3 +1,21 @@
+# Problems:
+# In the target webpage, some files names have typos
+# -- Hence, pdf for some years were not downloaded
+# -- -- 1)October 2019
+# -- -- -- filename is missing characters '-20%'
+# -- -- -- '...202019%20NIV...' instead of '...202019%20-%20NIV...'
+# ''' Downloaded and renamed manually '''
+
+# -- -- 2)December 2017
+# -- -- -- filename is missing the character 'a'
+# -- -- --  'nationlity' instead of 'nationality'
+# ''' Downloaded and renamed manually '''
+
+# -- -- 3)September 2020
+# -- -- -- filename is missing characters 'EMBER'
+# -- -- -- 'SEPT...' instead of 'SEPTEMBER...'
+# ''' Did something, can't remember'''
+
 url = "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonimmigrant-visa-statistics/monthly-nonimmigrant-visa-issuances.html"
 
 folder_location = r'C:\Users\Tashi Nyangmi\Desktop\visa\data_cleaning\pdf_raw'
