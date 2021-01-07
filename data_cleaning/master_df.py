@@ -4,7 +4,7 @@ import pandas as pd
 # import the first dataframe
 # march 2017
 df = pd.read_csv(f'csv_clean/{file_names[0]}.csv')
-df['date'] = file_name.replace('_', '-')  # create a column:date, replace _ with -
+df['date'] = file_names[0].replace('_', '-')  # create a column:date, replace _ with -
 df['date']= pd.to_datetime(df['date'])  # convert column:date to Datatype: DateTime
 df.set_index('date', inplace = True)
 
@@ -22,3 +22,4 @@ for file_name in file_names[1:]:
 
 # ========================================================================================== #
 
+df.to_csv('master_df.csv')
