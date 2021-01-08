@@ -1,3 +1,9 @@
+Conversion issue:
+for april 2017, sudan:
+column:country = NaN
+visa_type = country concat visa_type
+
+
 inconsistent table format
 
 March 2017:

@@ -51,6 +51,7 @@
             {% if returned_visa_type %}
             <option value = {{returned_visa_type}}> {{returned_visa_type}}</option>
             {% endif %}
+            <option value = 'all'> all </option>
             {% for visa_type in visa_types %}
             <option value= {{visa_type}}>{{visa_type}}</option>
             {% endfor %}
