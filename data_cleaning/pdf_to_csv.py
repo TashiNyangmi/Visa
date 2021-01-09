@@ -7,4 +7,6 @@ def pdf_to_csv(input_file, output_file):
         print(f'{input_file} not found')
     return
 
+
 # ================================================================== #
+pdf_to_csv("Nonimmigrant Visa Symbols.pdf", "nivisa_symbols.csv")
