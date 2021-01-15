@@ -6549,21 +6549,21 @@ date,country,visa_type,number
 2017-04-01,St. Vincent and The Grenadines,F1,1
 2017-04-01,St. Vincent and The Grenadines,J1,1
 2017-04-01,St. Vincent and The Grenadines,P1,1
-2017-04-01,,SudanA1,14
-2017-04-01,,SudanA3,7
-2017-04-01,,SudanB1,17
-2017-04-01,,SudanB1/B2,245
-2017-04-01,,SudanB2,5
-2017-04-01,,SudanD,3
-2017-04-01,,SudanF1,2
-2017-04-01,,SudanG1,9
-2017-04-01,,SudanG2,13
-2017-04-01,,SudanG4,2
-2017-04-01,,SudanH1B,3
-2017-04-01,,SudanH4,4
-2017-04-01,,SudanI,1
-2017-04-01,,SudanJ1,13
-2017-04-01,,SudanK1,3
+2017-04-01,Sudan,A1,14
+2017-04-01,Sudan,A3,7
+2017-04-01,Sudan,B1,17
+2017-04-01,Sudan,B1/B2,245
+2017-04-01,Sudan,B2,5
+2017-04-01,Sudan,D,3
+2017-04-01,Sudan,F1,2
+2017-04-01,Sudan,G1,9
+2017-04-01,Sudan,G2,13
+2017-04-01,Sudan,G4,2
+2017-04-01,Sudan,H1B,3
+2017-04-01,Sudan,H4,4
+2017-04-01,Sudan,I,1
+2017-04-01,Sudan,J1,13
+2017-04-01,Sudan,K1,3
 2017-04-01,"Sudan, South",A1,2
 2017-04-01,"Sudan, South",A2,9
 2017-04-01,"Sudan, South",B1/B2,16
