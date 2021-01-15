@@ -1,6 +1,6 @@
 <h1>NIVISA [WORK IN PROGRESS] </h1>
 <br>
-<h5> Creating a user-friendly portal to access Non-Immigrant Visa Statistics published by the US Department of State. </h5>
+<h3> Creating a user-friendly portal to access Non-Immigrant Visa Statistics published by the US Department of State. </h3>
 Source: https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonimmigrant-visa-statistics/monthly-nonimmigrant-visa-issuances.html
 <br>
 <p> Data from Mar-2017 to Nov-2020 </p>
