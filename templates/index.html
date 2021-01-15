@@ -2,9 +2,25 @@
 
 {% block head %}
 <title> <h2> Visa Statistics </h2> </title>
+<hr>
 {% endblock %}
 
 {% block body %}
+<div>
+    <p> Data from <b> Mar-2017 to Nov-2020 </b></p>
+    <p> US Department of State has not released monthly data for Dec-2020 yet.</p>
+    <p> *This webapp is automatically updated every day</p>
+    <p> For definitions of non immigrant visa classification symbols, please
+        <a href = "https://travel.state.gov/content/dam/visas/Statistics/Non-Immigrant-Statistics/MonthlyNIVIssuances/Nonimmigrant%20Visa%20Symbols.pdf" target = "_blank">
+            click here
+        </a>
+    </p>
+      <p>
+        <a href = "https://github.com/TashiNyangmi/Visa" target = "_blank">
+            Github Code Repo
+        </a>
+    </p>
+</div>
 <hr>
     <form action = "/" method = "POST">
         <label for = "country">
@@ -60,18 +76,7 @@
     </form>
 
 <hr>
-<div>
-    <p> For definitions of non immigrant visa classification symbols, please
-        <a href = "https://travel.state.gov/content/dam/visas/Statistics/Non-Immigrant-Statistics/MonthlyNIVIssuances/Nonimmigrant%20Visa%20Symbols.pdf" target = "_blank">
-            click here
-        </a>
-    </p>
-      <p>
-        <a href = "https://github.com/TashiNyangmi/Visa" target = "_blank">
-            Github Code Repo
-        </a>
-    </p>
-</div>
+
 {% if returned_visa_type %}
     {% for table in tables %}
             {{titles[loop.index]}}
