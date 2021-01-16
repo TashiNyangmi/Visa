@@ -1,19 +1,78 @@
 <!DOCTYPE html>
 <html lang='en'>
 <style>
-    .input_filter1{
-    width: 150px
+    p{
+    margin: 10px;
+    }
+
+    form{
+    margin: 10px;
+    }
+
+    .submit{
+    border-radius :12px;
+    padding: 7px;
+    }
+
+    .logo_image{
+    width:100px;
+    }
+
+    .small_image{
+    width: 120px;
+    padding: 5px;
+    }
+
+    .input_filter{
+    width: 150px;
+    padding : 6px;
+    margin : 4px;
+    border-radius: 8px; <!-- rounded corners -->
+    }
+
+    #tiny_p{
+    font-size: 15px;
     }
 
 </style>
+
 <head>
     <meta charset = 'UTF-8'>
     <meta name = 'viewport' content = 'width = device-width, initial-scale = 1.0'>
     <meta http-equiv='X-UA-Compatible' content = 'ie = edge'>
     <link rel = 'stylesheet' href = '{{url_for("static", filename = "css/main.css")}}'
+
+
+    <title>
+         <h2> Visa Statistics </h2>
+    </title>
+    <img src = 'static\1200px-U.S._Department_of_State_official_seal.png' class = "small_image">
+
+<hr>
     {% block head %} {% endblock %}
 </head>
+
 <body>
+    <div>
+        <p id = "tiny_p"> Data from <b> Mar-2017 to Nov-2020 </b> <br>
+        US Department of State has not released monthly data for Dec-2020 yet. <br>
+        *This dataset used in this webapp is automatically updated<br>
+        For definitions of non immigrant visa classification symbols, please
+        <a href = "https://travel.state.gov/content/dam/visas/Statistics/Non-Immigrant-Statistics/MonthlyNIVIssuances/Nonimmigrant%20Visa%20Symbols.pdf" target = "_blank">
+            click here
+        </a> <br>
+        </p>
+
+        <p>
+            <a href = "https://github.com/TashiNyangmi/Visa" target = "_blank">
+                <img src = 'static\github_logo.png' class = "logo_image">
+            </a>
+        </p>
+    </div>
+
+    <hr>
+
     {% block body %} {% endblock %}
+
 </body>
 </html>
