@@ -9,7 +9,7 @@
 <div>
     <p> Data from <b> Mar-2017 to Nov-2020 </b></p>
     <p> US Department of State has not released monthly data for Dec-2020 yet.</p>
-    <p> *This webapp is automatically updated every day</p>
+    <p> *This dataset is automatically updated every day</p>
     <p> For definitions of non immigrant visa classification symbols, please
         <a href = "https://travel.state.gov/content/dam/visas/Statistics/Non-Immigrant-Statistics/MonthlyNIVIssuances/Nonimmigrant%20Visa%20Symbols.pdf" target = "_blank">
             click here
@@ -26,7 +26,7 @@
         <label for = "country">
             country:
         </label>
-        <select id = "country" name = "country">
+        <select id = "country" name = "country" class = 'input_filter1'>
             {% if returned_country %}
             <option value = {{returned_country}}> {{returned_country}}</option>
             {% endif %}
