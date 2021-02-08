@@ -1,3 +1,5 @@
+# Updating module 2
+
 from file_names import file_names
 import pandas as pd
 
@@ -19,6 +21,7 @@ for file_name in file_names[1:]:
         df = df.append(monthly_df)
     except:
         print(f'{file_name}.csv not found')
+
 
 # ========================================================================================== #
 
