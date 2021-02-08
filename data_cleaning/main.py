@@ -1,33 +1,38 @@
-import os
-
-from file_names import file_names  # list of file_names that update with current date/year
+# Updating module
+# Downloads new files from source
+# Converts and cleans
+# Next step: appending to master_df and exporting to master_df.csv
 # importing UDFs
 from pdf_downloader import pdf_downloader
 from pdf_to_csv import pdf_to_csv
 from csv_clean import csv_clean
+from file_names import file_names  # list of file_names that update with current date/year
 
 
 # --------------------------------------------------------------------------------#
 
 # USER DEFINED FUNCTIONS
 def local_files(path='.', no_extension=True):
-    """list of files in local machine"""
+    """ Returns a list of files in a directory"""
+    """
+    Arguments:
+    path: str, default = '.' 
+    path to the directory to list file names of
+
+    no_extension: boolean, default = True
+    if true the extension is stripped out. 
+    Note: This only works with that have 3 characters for extension
+    """
+    import os
     dir_file_names = []
     with os.scandir(path=path) as entries:
         for entry in entries:
             dir_file_names.append(entry.name)
+
+    # stripping the extension
     if no_extension == True:
-        dir_file_names = [name[:-4] for name in dir_file_names]  # stripping the extension
+        dir_file_names = [name[:-4] for name in dir_file_names]
     return dir_file_names
-
-
-def list_difference(big_list, small_list):
-    """returns difference of two lists"""
-    difference = []
-    for b in big_list:
-        if b not in small_list:
-            difference.append(b)
-    return difference
 
 
 # --------------------------------------------------------------------------------#
@@ -35,9 +40,14 @@ def list_difference(big_list, small_list):
 # PDF DOWNLOADER
 target_dir = 'pdf_raw'
 
+source_files = file_names # list of file_names that update with current date/year
+target_files = local_files(path=target_dir)
+
+# Subtracting target_files from source_files
+download_list = [file for file in source_files if file not in target_files]
+
 url = "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/nonimmigrant-visa-statistics/monthly-nonimmigrant-visa-issuances.html"
 folder_location = r'C:\Users\Tashi Nyangmi\Desktop\visa\data_cleaning\pdf_raw'
-download_list = list_difference(file_names, local_files(path=target_dir))
 
 # downloading PDFs
 pdf_downloader(url=url, folder_location=folder_location, download_list=download_list)
@@ -50,8 +60,7 @@ target_dir = 'csv_raw'
 source_files = local_files(path=source_dir)
 target_files = local_files(path=target_dir)
 
-convert_list = list_difference(source_files, target_files)
-print(convert_list)
+convert_list = [file for file in source_files if file not in target_files]
 
 #  Converting pdf_raw to csv_raw
 for file_name in convert_list:
@@ -70,8 +79,7 @@ target_dir = 'csv_clean'
 source_files = local_files(path=source_dir)
 target_files = local_files(path=target_dir)
 
-convert_list = list_difference(source_files, target_files)
-print(convert_list)
+convert_list = [file for file in source_files if file not in target_files]
 
 #  Converting csv_raw to csv_clean
 for file_name in convert_list:
