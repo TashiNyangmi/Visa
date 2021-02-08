@@ -33,4 +33,3 @@ target_files = local_files(path=target_dir)
 
 # Subtracting target_files from source_files
 download_list = [file for file in source_files if file not in target_files]
-print(download_list)
