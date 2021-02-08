@@ -7,7 +7,6 @@ from pdf_to_csv import pdf_to_csv
 from csv_clean import csv_clean
 from download_list import download_list  # list of file_names that update with current date/year
 
-
 # --------------------------------------------------------------------------------#
 
 # PDF DOWNLOADER
@@ -26,8 +25,9 @@ target_dir = 'csv_raw'
 for file_name in download_list:
     input_file = f'{source_dir}/{file_name}.pdf'
     output_file = f'{target_dir}/{file_name}.csv'
-    print(f'Converting {file_name} from pdf_raw to csv_raw')
+
     try:
+        print(f'Converting {file_name} from pdf_raw to csv_raw')
         pdf_to_csv(input_file=input_file, output_file=output_file)
     except:
         print(f"{file_name} not found")
@@ -43,8 +43,9 @@ target_dir = 'csv_clean'
 for file_name in download_list:
     input_file = f'{source_dir}/{file_name}.csv'
     output_file = f'{target_dir}/{file_name}.csv'
-    print(f'Converting {file_name} from csv_raw to csv_clean')
+
     try:
+        print(f'Converting {file_name} from csv_raw to csv_clean')
         csv_clean(input_file=input_file, output_file=output_file)
         print("csv cleaning successful for ", file_name)
 
@@ -53,31 +54,40 @@ for file_name in download_list:
     print("=================================================")
     print('                                                 ')
 
-
 # --------------------------------------------------------------------------------#
 print("Performing final cleaning")
 print("                 ")
+
 for file_name in download_list:
-    try:
+    try:  # refactor this part
         df = pd.read_csv(f'csv_clean/{file_name}.csv')
 
-        df['country'] = df['country'].str.replace("Hong Kong S. A. R", "Hong Kong S.A.R")
-        df['country'] = df['country'].str.replace("China-Taiwan", "China - Taiwan")
-        df['country'] = df['country'].str.replace("China-mainland", "China - mainland")  # replacing 1 with 2
-        df['country'] = df['country'].str.replace("China - Mainland", "China - mainland")  # replacing 3 with 2
         df['country'] = df['country'].str.title()
-        df['country'] = df['country'].str.replace("Nationlity", "Nationality")
-
         df['country'] = np.where(df['country'] == "Non-Nationality Based Issuances", "*Non-Nationality Based Issuances",
                                  df['country'])
-        df = df[~df['country'].str.lower().str.contains(" by ")]
+        replace_dict = {
+            "Bosnia-Herzegovina": "Bosnia And Herzegovina",
+            "China-mainland": "China - Mainland",
+            "China-Taiwan": "China - Taiwan",
+            "Congo, Republic Ff The": "Republic Of The Congo",
+            "Congo, Democratic Republic Of The": "Democratic Republic Of The Congo",
+            "\**Eswatini": "Eswatini",
+            "Great Britain & Northern Ireland": "Great Britain And Northern Ireland",
+            "Hong Kong S. A. R": "Hong Kong S.A.R",
+            "Macau S. A. R.": "Macau S.A.R.",
+            "Marshall Islands, Republic Of The": "Marshall Islands",
+            "Micronesia, Federated States Of": "Micronesia",
+            "Nationlity": "Nationality"
+        }
+
+        for key, value in replace_dict.items():
+            df['country'] = df['country'].str.replace(key, value)
 
         df.to_csv(f'{file_name}.csv')
         print(f'{file_name.csv} is ready to append with master_df.csv')
 
     except:
         print(f'{file_name} not found')
-
 
 # --------------------------------------------------------------------------------#
 # updating module 3
