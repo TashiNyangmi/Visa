@@ -9,6 +9,7 @@ def index():
     global titles, tables
     from lists_for_app import lists
     countries, years, months, visa_types = lists()
+    from data_cleaning.download_list import download_list
 
     if request.method == 'POST':
         # Get input from user
@@ -35,6 +36,7 @@ def index():
                                    years=years,
                                    months=months,
                                    visa_types=visa_types,
+                                   download_list=download_list,
                                    tables=tables,                # for table
                                    titles=titles)                # for table
         except:
@@ -44,7 +46,8 @@ def index():
                                countries=countries,
                                months=months,
                                years=years,
-                               visa_types=visa_types)
+                               visa_types=visa_types,
+                               download_list=download_list)
 
 
 if __name__ == "__main__":

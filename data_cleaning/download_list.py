@@ -1,4 +1,4 @@
-from file_names import file_names
+from data_cleaning.file_names import file_names
 
 
 # USER DEFINED FUNCTIONS
@@ -26,10 +26,19 @@ def local_files(path='.', no_extension=True):
 
 
 # ---------------------------------------------------------------------#
-target_dir = 'csv_clean'
+try:
+    target_dir = 'csv_clean'
 
-source_files = file_names  # list of file_names that update with current date/year
-target_files = local_files(path=target_dir)
+    source_files = file_names  # list of file_names that update with current date/year
+    target_files = local_files(path=target_dir)
 
-# Subtracting target_files from source_files
-download_list = [file for file in source_files if file not in target_files]
+    # Subtracting target_files from source_files
+    download_list = [file for file in source_files if file not in target_files]
+except:
+    target_dir = 'data_cleaning/csv_clean' # for use in front-end
+
+    source_files = file_names  # list of file_names that update with current date/year
+    target_files = local_files(path=target_dir)
+
+    # Subtracting target_files from source_files
+    download_list = [file for file in source_files if file not in target_files]
